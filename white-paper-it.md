@@ -79,5 +79,21 @@ Quindi il primo punto, è quello di non addossare all'utente le spese del device
 La piattaforma Helium for People darà la possibilità a quegli utenti che risiedono nelle vicinanze di un punto di interesse per la copertura Helium, di ottenere un gateway gratuitamente (forse con un deposito cauzionale per evitare le frodi, restituito dopo il raggiungimento di una % di mining)
 
 Con questo gateway l'utente entrerà a far parte della rete e iniziarà a minare criptovaluta come ricompensa del servizio dato. Quali criptomonete l'utente minerà?
-Il sistema di Helium for People bilancia le reward del mining per andare a creare delle riserve che verranno utilizzate per lo sviluppo della tecnologia, del network e dell remunerazione per l'utente.
+Il sistema di Helium for People bilancia le reward del mining per andare a creare delle riserve che verranno utilizzate per lo sviluppo della tecnologia, del network e della remunerazione per l'utente.
+Quindi L'utente riceverà come ricompensa non solo HNT ma anche EFS Token i quali daranno un'esperienza più coinvolgente e profonda del sistema di Helium Network 
+
+L'obiettivo è di creare queste riserve per rendere questo network più bilanciato e fluido, le riserve saranno principalmente 4 che poi verranno divise e distribuite a seconda del caso di utilizzo.
+
+1) riserva mining utenti: verrà utilizzata per distribuire le reward del mining HNT per gli utenti
+2) riserva comune per lo sviluppo: verrà utilizzata per finanziare le start-up selezionate da sistema di governance sulla piattaforma dagli utenti
+3) riserva contro valore EFS Token: verrà utilizzata per avere un asset che funge da riserva di valore per EFS Token
+4) riserva aziendale: verrà utilizzata per sostenere la piattaforma e gli sviluppi
+
+Da queste 4 riserve verranno generate molteglici riserve che serviranno a rendere l'ecosistema fluido e sostenibile, approfondiremo il funzionamento nei prossimi capitoli.
+
+
+
+
+
+
 
