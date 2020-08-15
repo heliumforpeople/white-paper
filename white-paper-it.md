@@ -1,13 +1,9 @@
 # Helium for People
-## Ecosistema di infrastrutture, minatori e finanziamento sviluppatori
+Ecosistema di infrastrutture, minatori e finanziamento sviluppatori
 
-### Authors
-Erwin Roio
-Federico Paletta
-Sara Sidonio
 
-EFSociety
-Rilascio 15/08/2020
+#### EFSociety
+##### Ultimo rilascio 15/08/2020
 
 ## Astratto
 In un mondo come quello delle ICO solitamente si verifica questo scenario: la start-up X ha una visione, un gruppo di persone mette insieme le proprie capacità, risorse e competenze e con una immensa forza di volontà lanciano la presentazione e cercano fondi per portare avanti gli sviluppi.
