@@ -71,3 +71,13 @@ Oltre ad avere queste due funzioni daranno la possibilità di :
 5. essere utilizzata come moneta di pagamento nelle applicazioni sviluppate con i "fondi comuni di sviluppo" che utilizzano la rete Helium Network.
 
 **In definitiva EFS Token e tutto il sistema Helium for People potrebbe fungere da volano sociale ed economico per Helium Network.**
+
+## Funzione Helium for People 
+Perchè un utente dovrebbe scegliere di far parte di Helium for People?
+Un gateway ha un costo che va dai 250 euro a 500 a seconda delle componenti al suo interno, le quali sono molto importanti per la stabilità e la funzionalità della tecnologia stessa.
+Quindi il primo punto, è quello di non addossare all'utente le spese del device, che poi formerà insieme a tutto in network l'infrastruttura su cui si basa questa tecnologia.
+La piattaforma Helium for People darà la possibilità a quegli utenti che risiedono nelle vicinanze di un punto di interesse per la copertura Helium, di ottenere un gateway gratuitamente (forse con un deposito cauzionale per evitare le frodi, restituito dopo il raggiungimento di una % di mining)
+
+Con questo gateway l'utente entrerà a far parte della rete e iniziarà a minare criptovaluta come ricompensa del servizio dato. Quali criptomonete l'utente minerà?
+Il sistema di Helium for People bilancia le reward del mining per andare a creare delle riserve che verranno utilizzate per lo sviluppo della tecnologia, del network e dell remunerazione per l'utente.
+
