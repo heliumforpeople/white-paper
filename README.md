@@ -1,1 +1,1 @@
-# white-paper
+# Helium for People white-paper
