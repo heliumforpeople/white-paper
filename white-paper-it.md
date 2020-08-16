@@ -98,6 +98,7 @@ Un'altro modo di incentivare il network sarà dare la possibilità a qualsiasi u
 
 Quando un utente raggiunge un determinato livello di status sulla piattaforma potrà proporre lui stesso progetti IoT e se la comunità voterà il suo progetto come migliore verrà avviato un bando per le start-up che vogliono realizzare questo progetto e essere finanziate dalla comunità.
 
+**L'obiettivo è quello di alimentare più possibile gli sviluppi IoT, l'utilizzo dei Data Credits e degli stessi gateway per incrementarne le perfomance e rendere il possessore incentivato a sostenere in network. Infatti i gateway sono performanti nel minare solo se vengono utilizzati per trasferire dati.**
 
 
 
