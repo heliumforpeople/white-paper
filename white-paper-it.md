@@ -89,7 +89,11 @@ L'obiettivo è di creare queste riserve per rendere questo network più bilancia
 3) riserva contro valore EFS Token: verrà utilizzata per avere un asset che funge da riserva di valore per EFS Token
 4) riserva aziendale: verrà utilizzata per sostenere la piattaforma e gli sviluppi
 
-Da queste 4 riserve verranno generate molteglici riserve che serviranno a rendere l'ecosistema fluido e sostenibile, approfondiremo il funzionamento nei prossimi capitoli.
+Da queste 4 riserve verranno divise in molteplici riserve che serviranno a rendere l'ecosistema fluido e sostenibile, approfondiremo il funzionamento nei prossimi capitoli.
+
+Quindi oltre ad avere una ricompensa avrà accesso a molteplici servizi offerti dalla piattaforma per rendere la sua esperienza più coinvolgente, infatti gli utenti potranno accedere ad una sezione relativa alle start-up che vogliono sviluppare IoT sulla blockchian Helium, con gli EFS Token avranno il potere di votare quali saranno i progetti che verranno finanziati con i "fondi comuni per lo sviluppo" ed ottenere un premio se il progetto votato sarà quello scelto dalla comunità.
+I premi saranno distribuiti in base alle monete spese per il voto e in proporzione a qual'è lo stacking dell'utnte sulla piattaforma fino ad un cap massimo fissato.
+
 
 
 
