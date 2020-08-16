@@ -100,6 +100,9 @@ Quando un utente raggiunge un determinato livello di status sulla piattaforma po
 
 **L'obiettivo è quello di alimentare più possibile gli sviluppi IoT, l'utilizzo dei Data Credits e degli stessi gateway per incrementarne le perfomance e rendere il possessore incentivato a sostenere in network. Infatti i gateway sono performanti nel minare solo se vengono utilizzati per trasferire dati.**
 
+## Sistema di riserve di valore
+
+
 
 
 
