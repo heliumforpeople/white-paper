@@ -94,6 +94,12 @@ Da queste 4 riserve verranno divise in molteplici riserve che serviranno a rende
 Quindi oltre ad avere una ricompensa avrà accesso a molteplici servizi offerti dalla piattaforma per rendere la sua esperienza più coinvolgente, infatti gli utenti potranno accedere ad una sezione relativa alle start-up che vogliono sviluppare IoT sulla blockchian Helium, con gli EFS Token avranno il potere di votare quali saranno i progetti che verranno finanziati con i "fondi comuni per lo sviluppo" ed ottenere un premio se il progetto votato sarà quello scelto dalla comunità.
 I premi saranno distribuiti in base alle monete spese per il voto e in proporzione a qual'è lo stacking dell'utnte sulla piattaforma fino ad un cap massimo fissato.
 
+Un'altro modo di incentivare il network sarà dare la possibilità a qualsiasi utente anche che non detiene un gateway di convertire HNT(i quali verranno vincolati come controvalore) in EFS Token per poi vincolarli sulla piattaforma percepire interessi passivi, generati da un sistema sostenibile e fluido che approfondiremo nel dettaglio nei prossimi capitoli.
+
+Quando un utente raggiunge un determinato livello di status sulla piattaforma potrà proporre lui stesso progetti IoT e se la comunità voterà il suo progetto come migliore verrà avviato un bando per le start-up che vogliono realizzare questo progetto e essere finanziate dalla comunità.
+
+
+
 
 
 
