@@ -6,102 +6,160 @@ Ecosistema di infrastrutture, minatori e finanziamento sviluppatori
 ##### Ultimo rilascio 15/08/2020
 
 ## Astratto
-In un mondo come quello delle ICO solitamente si verifica questo scenario: la start-up X ha una visione, un gruppo di persone mette insieme le proprie capacità, risorse e competenze e con una immensa forza di volontà lanciano la presentazione e cercano fondi per portare avanti gli sviluppi.
+
+In un mondo come quello delle Start-up solitamente si verifica questo scenario: la start-up X ha una visione; un gruppo di persone mette insieme le proprie capacità, risorse e competenze e con grande forza di volontà lanciano la presentazione e cercano fondi per portare avanti gli sviluppi.
 
 A questo punto devono esserci persone disposte a mettere a disposizione i propri capitali in visione di un profitto futuro.
+Generalmente gli investitori non sono disposti ad essere molto pazienti, infatti, due sono i parametri con cui vengono valutati gli investimenti: durata e profitto.
 
-Gli investitori solitamente non sono persone molto pazienti, infatti due sono i parametri con cui valutano gli investimenti: durata e profitto.
+Ovvero, in quanto tempo un investimento andrebbe a creare un determinato profitto? Si tratta di un parametro che non collima con quello degli sviluppatori, i quali, per lavorare bene, hanno bisogno di tempo e risorse.
 
-Ovvero in quanto tempo un investimento gli creare un determinato profitto, parametro che
+Ma oltre agli Investitori qual è l'altra figura presente in questo scenario, che può avere il potere di cambiare questo sistema?
 
-non si collima con quello degli sviluppatori, i quali, per lavorare bene, hanno bisogno di tempo e risorse.
+I Minatori, coloro che realmente fanno parte della rete.
+Helium for People mira a far unire le forze di queste figure in un ecosistema che ha come obiettivo, alimentare la blockchain, foraggiare gli sviluppi open-source e rendere tutti protagonisti allo stesso modo con il fine ultimo di rendere concreti e tangibili i benefici, economici e non, di un ecosistema che mira a sviluppare la tecnologia pensata dal cittadino e per il cittadino.
 
-Ma oltre gli Investitori quel'è l'altra figura presente in questo scenario, che può avere il potere di cambiare questo sistema?
-
-I Minatori, coloro che credono veramente nella tecnologia e che realmente fanno parte della rete.
-Helium for People mira a far unire le forze di queste figure in un ecosistema che ha come obiettivo, alimentare la blockchain, foraggiare gli sviluppi open-source e rendere tutti protagonisti allo stesso modo.
-
-Con il fine ultimo di rendere concreti e tangibili i benefici, economici e non, di un ecosistema che mira a sviluppare la tecnologia pensata dal cittadino e per il cittadino.
-
-Analizzando dei dati forniti sulla Whitepaper di Helium
+Analizzando dei dati forniti sulla Whitepaper di Helium (riportati qui di seguito) possiamo trarre una conclusione positiva:
 
 "The Internet of Things is an $800 billion industry, with over 8.4 billion connected devices online, and spending predicted to reach nearly $1.4 trillion by 2021.
-Most of these devices need to connect to the Internet to function. However, current solutions such as cellular, WiFi, and Bluetooth are suboptimal: they are too expensive, too power hungry, or too limited in range. The Helium network is a decentralized wireless network that enables devices anywhere in the world to wirelessly connect to the Internet and geolocate themselves without the need for power-hungry satellite location hardware or expensive cellular plans."
+Most of these devices need to connect to the Internet to function. However, current solutions such as cellular, WiFi, and Bluetooth are suboptimal: they are too expensive, too power hungry, or too limited in range. The Helium network is a decentralized wireless network that enables devices anywhere in the world to wirelessly connect to the Internet and geolocate themselves without the need for power-hungry satellite location hardware or expensive cellular plans".
 
 Il mercato generato dalla tecnologia IoT è un mercato florido.
 
-Ogni azienda del settore ha un reparto sviluppo a cui dedica fondi e risorse, ogni reparto sviluppo di ogni azienda lavora in maniera indipendente e nella maggior parte dei casi senza condividere i progressi fatti con le altre aziende.
+Ogni azienda del settore ha un reparto sviluppo a cui dedica fondi e risorse. Ogni reparto sviluppo di ogni azienda lavora in maniera indipendente e nella maggior parte dei casi senza condividere i progressi fatti con le altre aziende.
 
-Questo genera, si, una competizione sana che spinge le aziende ad investire sempre di più per acquisire vantaggio rispetto gli altri competitori, ma dall'altro versante limita lo sviluppo che potrebbe avere questa tecnologia nel breve e lungo periodo, infatti pensate a quali potrebbero essere i progressi invece se almeno in parte questi fondi fossero destinati a fondo comuni per lo sviluppo e con quali tempistiche si sarebbero raggiunti tali risultati.
+Questo genera, si, una competizione sana che spinge le aziende ad investire sempre di più per acquisire vantaggio rispetto gli altri competitori, ma dall'altro versante limita lo sviluppo che potrebbe avere questa tecnologia nel breve e lungo periodo. Basta pensare a quali potrebbero essere i progressi, invece, se almeno in parte questi fondi fossero destinati a fondi comuni per lo sviluppo e con quali tempistiche tali risultati potrebbero essere raggiunti.
 
 ## Introduzione
+
 Helium for People si impegna a sviluppare, basando sul traffico di dati presenti nella Blockchain Helium e il relativo mining, un ecosistema che favorisca lo sviluppo della tecnologia, del valore stesso della blockchain e la remunerazione per i cittadini che fanno parte della rete direttamente e non.
 
-La nostra piattaforma offre la possibilità di entrare a far parte del network semplicemente installando un gateway nella propria abitazione senza alcun investimento.
+La piattaforma offre la possibilità di entrare a far parte del network semplicemente installando un gateway nella propria abitazione senza alcun investimento.
 
 Il cittadino che entra a far parte della rete otterrà come ricompensa due tipi di criptovalute: gli HNT e EFS Token.
 
 Gli HNT (Helium Network Token) hanno la funzione di riserva di valore per la piattaforma e l'utente.
 
-Invece gli EFS token hanno la funzione di creare liquidità sulla piattaforma, incentivare gli investimenti esterni sugli sviluppi delle start-up e un sistema di governance.
+Gli EFS token hanno la funzione di creare liquidità sulla piattaforma, incentivare gli investimenti esterni sugli sviluppi delle start-up e un sistema di governance incentivando indirettamente un effetto deflattivo sul valore degli HNT.
+
+Con il sistema di governance si vuole creare un modo per far interagire direttamente l'utente con l'azienda che vuole fornirgli servizi per accrescere insieme l'utilizzo e la praticità di utilizzo di questa tecnologia.
+
+Con la creazione di questo ecosistema vogliamo incentivare un rapido sviluppo di questa tecnologia e la crescita del network ad essa correlato.
 
 ## HNT
-Gli Helium Network Token vengono utilizzati da Helium Network sia per ricompensare gli utenti per i servizi resi, sia come moneta per l'acquisizione dei dati da parte dei dispositivi IoT che li utilizzano.
 
-Ogni volta che un dispositivo IoT invia o riceve dati infatti consuma Data Credits.
-I DC sono acquistabili tramite Carta di Credito o la conversione di HNT, i quali vengono bruciati dopo ogni acquisto in maniera tale da incrementare il valore stesso degli Helium Network Token.
+Gli Helium Network Token vengono utilizzati da Helium Network sia per ricompensare gli utenti per i servizi resi, sia come moneta per l'acquisizione dei dati da parte dei dispositivi IoT che la utilizzano.
 
-Viceversa se un utente ha un gateway in suo possesso, il quale viene utilizzato per trasferire questi dati viene ricompensato tramite Helium Network Token.
+Ogni volta che un dispositivo IoT invia o riceve dati consuma Data Credits.
+I DC sono acquistabili tramite Carta di Credito o attraverso la conversione di HNT, i quali vengono bruciati dopo ogni acquisto in maniera tale da incrementare il valore stesso degli Helium Network Token.
+
+Viceversa, un utente che ha un gateway, utilizzato per trasferire questi dati, viene ricompensato tramite Helium Network Token.
 
 ## EFS
-Ma come vengono creati i EFS Token? gli EFS Token vengono creati con il contro valore degli HNT, ovvero ogni volta che l'ecosistema, l'utente o un investitore esterno converte degli HNT per degli EFS Token, gli HNT vengono vincolati in un fondo che fungerà da controvalore.
 
-Gli EFS Token avranno diverse funzioni, due saranno le funzioni principali, una è quella di dare il modo di gestire la governance sulla piattaforma per quanto riguarda le decisioni sui "fondi comuni di sviluppo" e l'altra quella di fornire il modo anche agli utenti che non possono tenere un gateway a casa il modo di partecipare al network e allo sviluppo del settore.
+Come vengono creati gli EFS Token? Gli EFS Token vengono creati con il contro valore degli HNT, ovvero: ogni volta che l'ecosistema, l'utente o un investitore esterno converte degli HNT per degli EFS Token, gli HNT vengono vincolati in un fondo che fungerà da controvalore.
 
-Oltre ad avere queste due funzioni daranno la possibilità di :
+Come se gli HNT fossero l'oro nelle casse delle banche di un tempo e gli EFS Token fossero le banconote create per dare più liquidità e incentivare la crescita dell'economia. Questo sistema potrebbe risultare inefficace solo nel momento in cui si dividono le due cose.
+Se poi la riserva che usiamo come controvalore ha modo di crescere matematicamente in base ad una costante o ad una variabile, possiamo generare un prodotto interno costante o variabile, il quale se applicato ad un ecosistema equo e ben distribuito, potrà generare risorse per tutti coloro che appartengono a questo ecosistema.
+
+Gli EFS Token avranno diverse funzioni, due saranno le principali: una è quella di dare il modo di gestire la governance sulla piattaforma per quanto riguarda le decisioni sui "fondi comuni di sviluppo" e l'altra quella di fornire il modo, anche agli utenti che non possono avere un gateway a casa, di partecipare al network e allo sviluppo del settore.
+
+Oltre ad avere queste due funzioni daranno la possibilità di:
 
 1. ricevere interessi tramite lo stacking
 
-2. ottenere una ricompensa se nel sistema di governance si vota un'opzione che poi risulta quella scelta dalla community
+2. ottenere una ricompensa se nel sistema di governance si vota un'opzione che in seguito risulterà essere quella scelta dalla community
 
 3. aumentare il valore degli HNT vincolandone il maggior numero possibile
 
 4. rendere più vicino Helium Network alle narrative del mercato attuale
 
-5. essere utilizzata come moneta di pagamento nelle applicazioni sviluppate con i "fondi comuni di sviluppo" che utilizzano la rete Helium Network.
+5. essere utilizzata come moneta di pagamento nelle applicazioni sviluppate con i "fondi comuni di sviluppo" che utilizzano la rete Helium Network
 
-**In definitiva EFS Token e tutto il sistema Helium for People potrebbe fungere da volano sociale ed economico per Helium Network.**
+6. funzionare con un sistema deflattivo sugli HNT e avere un sistema di buy back e burning. 
 
-## Funzione Helium for People 
-Perchè un utente dovrebbe scegliere di far parte di Helium for People?
-Un gateway ha un costo che va dai 250 euro a 500 a seconda delle componenti al suo interno, le quali sono molto importanti per la stabilità e la funzionalità della tecnologia stessa.
-Quindi il primo punto, è quello di non addossare all'utente le spese del device, che poi formerà insieme a tutto in network l'infrastruttura su cui si basa questa tecnologia.
-La piattaforma Helium for People darà la possibilità a quegli utenti che risiedono nelle vicinanze di un punto di interesse per la copertura Helium, di ottenere un gateway gratuitamente (forse con un deposito cauzionale per evitare le frodi, restituito dopo il raggiungimento di una % di mining)
 
-Con questo gateway l'utente entrerà a far parte della rete e iniziarà a minare criptovaluta come ricompensa del servizio dato. Quali criptomonete l'utente minerà?
-Il sistema di Helium for People bilancia le reward del mining per andare a creare delle riserve che verranno utilizzate per lo sviluppo della tecnologia, del network e della remunerazione per l'utente.
-Quindi L'utente riceverà come ricompensa non solo HNT ma anche EFS Token i quali daranno un'esperienza più coinvolgente e profonda del sistema di Helium Network 
+**In definitiva gli EFS Token e tutto il sistema Helium for People potrebbero fungere da volano sociale ed economico per Helium Network.**
 
-L'obiettivo è di creare queste riserve per rendere questo network più bilanciato e fluido, le riserve saranno principalmente 4 che poi verranno divise e distribuite a seconda del caso di utilizzo.
+## Piattaforma Helium for People
 
-1) riserva mining utenti: verrà utilizzata per distribuire le reward del mining HNT per gli utenti
-2) riserva comune per lo sviluppo: verrà utilizzata per finanziare le start-up selezionate da sistema di governance sulla piattaforma dagli utenti
-3) riserva contro valore EFS Token: verrà utilizzata per avere un asset che funge da riserva di valore per EFS Token
-4) riserva aziendale: verrà utilizzata per sostenere la piattaforma e gli sviluppi
+Come sappiamo, i gateway Helium fungono da nodo per le informazioni richieste dai dispositivi IoT e vengono ricompensati con dei Token per questo servizio fornito, ma se il numero dei gateway crescesse esponenzialmente, entrerebbero sicuramente in competizione e perderebbero la loro efficacia.
 
-Da queste 4 riserve verranno divise in molteplici riserve che serviranno a rendere l'ecosistema fluido e sostenibile, approfondiremo il funzionamento nei prossimi capitoli.
+Tenendo conto di questo dobbiamo trovare un modo per distribuire correttamente i gateway sul territorio e al contempo non escludere le altre persone da questo sistema, perchè inevitabilmente, se si vuole costruire una rete ben distribuita, alcune persone verrebbero escluse o limitate nel mining e nell'uso di un gateway per fornire un servizio ed essere ricompensati.
 
-Quindi oltre ad avere una ricompensa avrà accesso a molteplici servizi offerti dalla piattaforma per rendere la sua esperienza più coinvolgente, infatti gli utenti potranno accedere ad una sezione relativa alle start-up che vogliono sviluppare IoT sulla blockchian Helium, con gli EFS Token avranno il potere di votare quali saranno i progetti che verranno finanziati con i "fondi comuni per lo sviluppo" ed ottenere un premio se il progetto votato sarà quello scelto dalla comunità.
-I premi saranno distribuiti in base alle monete spese per il voto e in proporzione a qual'è lo stacking dell'utnte sulla piattaforma fino ad un cap massimo fissato.
+Oltre a questo si aggiunge la necessità di sfruttare la blockchain perchè questa rimanga florida e stabile, quindi il bisogno di incentivare ricerche, sviluppi e progetti con tecnologia IoT sulla blockchain Helium.
 
-Un'altro modo di incentivare il network sarà dare la possibilità a qualsiasi utente anche che non detiene un gateway di convertire HNT(i quali verranno vincolati come controvalore) in EFS Token per poi vincolarli sulla piattaforma percepire interessi passivi, generati da un sistema sostenibile e fluido che approfondiremo nel dettaglio nei prossimi capitoli.
+La piattaforma di Helium for People sarà un punto di connessione e interscambio per tutte le figure coinvolte nel mondo della tecnologia IoT senza escludere nessuno dal network.
+Le figure principali della piattaforma saranno:
 
-Quando un utente raggiunge un determinato livello di status sulla piattaforma potrà proporre lui stesso progetti IoT e se la comunità voterà il suo progetto come migliore verrà avviato un bando per le start-up che vogliono realizzare questo progetto e essere finanziate dalla comunità.
+1. Utente base
+2. Utente che ha ottenuto hotspot gratuitamente
+3. Utente che lavora attivamete (costruire la rete, Helium center e altri ruoli)
+4. Sviluppatore
+5. Utente stacker
+6. Start-up
 
-**L'obiettivo è quello di alimentare più possibile gli sviluppi IoT, l'utilizzo dei Data Credits e degli stessi gateway per incrementarne le perfomance e rendere il possessore incentivato a sostenere in network. Infatti i gateway sono performanti nel minare solo se vengono utilizzati per trasferire dati.**
+Ognuna di queste figure è parte cruciale dell'ecosistema e del suo funzionamento, per questo è nostra intenzione creare una piattaforma che unisca tutte queste figure e costruire il motore che incentiverà l'utilizzo della tecnologia di Helium network.
 
-## Sistema riserve di valore
+**Utente base**
+Utente che si registra alla piattaforma online di Helium for People, ha accesso a tutte le funzioni della piattaforma escluse le parti dedicate alle start-up, a chi lavora attivamente e alla governance.
 
+**Utente che ha ottenuto Hotspot gratuito**
+"l'utente base" che ottiene un hotspot gratuito perchè può detenerlo in un punto di interesse, ha accesso alle reward del mining e alla governance, a differenza dell'account base.
+
+**Utente che lavora attivamente**
+Gli utenti che partecipano attivamente alla costruzione dell'ecosistema verranno ricompensati tramite delle reward derivanti dal "fondo per marketing", invece, chi si occupa dello sviluppo degli Helium Center verrà ricompensato tramite delle reward derivanti dal "fondo comune per lo sviluppo".
+
+**Sviluppatore**
+Gli sviluppatori che contribuiranno allo sviluppo di progetti proposti sulla piattaforma verranno ricompensati tramite delle reward provenienti dal "fondo comune per lo sviluppo" e attribuite tramite il sistema di governance.
+
+**Utente stacker**
+Qualsiasi utente potrà vincolare HNT per rivecere delle rewards. 
+Le rewards verranno distribuite in EFS Token, che sarà utilizzato per il sistema di governance, avere liquidità sulla piattaforma e rendere più coinvolgente l'esperienza per l'utente che non può detenere un hotspot a casa o non vuole congestionare la rete perchè già risiede vicino ad un hotspot. 
+
+**Start-up**
+Le start-up che vogliono sviluppare IoT sulla Blockchain Helium possono presentare il loro progetti ed essere scelte dagli utenti tramite il sistema di governance per essere finanziate con i "fondi comuni per lo sviluppo".
+
+## Gestione mining e riserve di valore
+
+Per rendere sostenibile il nostro ecosistema abbiamo bisogno di riserve di valore ben distribuite, equilibrate e funzionali allo scopo.
+Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli hostpot dati in comodato d'uso da Helium for People e vincolati con delle regole precise.
+
+**Divisione mining HNT**
+
+1) Utente 30% (5% riserva di valore immobile/mining)
+2) Fondo comune sviluppo 30% (7% riserva di valore liquidità)
+3) Helium for People azienda 30% (7% riserva di valore reward stacking, 3% buy back*)
+4) Fondo marketing 10% (5% riserva di valore sistema governance)
+
+
+|            | % lorda | % riserve |
+|------------|---------|-----------|
+| utente     |  30.00  |    5.00   |
+| sviluppo   |  30.00  |    7.00   |
+| azienda    |  30.00  |    7.00   |
+| marketing  |  10.00  |    5.00   |
+
+ 
+**Riserve di valore**
+
+1) 5%* Riserva valore immobile/mining: assicura un valore all'EFS Token dato dal corrispettivo vincolato in HNT (incrementa il valore dell'HNT stesso)
+2) 5%* Riserva valore mining/immobile: incentiva l'espansione della rete e rende possibile un sistema di governance legato a questa tecnologia e teoricamente potrebbe riempire alcune lacune (incrementa il valore degli HNT stessi)
+3) 7% Riserva valore liquidità: assicura liquidità all'utente e alle start-up (incrementa il valore dell'HNT e incentiva l'utilizzo della blockchain)
+4) 7% Riserva valore reward stacking: assicura sostenibilità al sistema di reward dello stacking sulla piattaforma (incrementa il valore dell'HNT; incentiva l'utilizzo della piattaforma, aumenta l'esperienza dell'utente e dà la possibilità, a chi non può detenere un hotspot, di partecipare al network e alla governance)
+5) 5% Riserva valore reward sistema governance: assicura e incentiva l'utilizzo della governance e lo studio da parte dell'utente (incrementa il valore dell'HNT e migliora 'esperienza degli utenti e delle start-up).
+
+
+| Riserva valore     | %      | 
+|--------------------|--------|
+| immobile/mining    |  5.00  | 
+| liquidità          |  7.00  | 
+| reward stacking    |  7.00  | 
+| reward governance  |  5.00  |
+
+
+
+**Mining EFS Token**
 
 
 
