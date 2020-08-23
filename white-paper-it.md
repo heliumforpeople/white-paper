@@ -163,9 +163,3 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli
 
 
 
-
-
-
-
-
-
