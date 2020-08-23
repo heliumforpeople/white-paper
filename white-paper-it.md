@@ -177,6 +177,17 @@ Infatti la riserva di valore che genera gli EFS Token per distribuire le reward 
 Quindi ad ogni blocco minato da hotspot Helium for People dal 30% del minato aziendale verrà detratto il 7% il quale verra diviso tra gli stacker, un esempio:
 ipotiziamo che la rete all'inizio conta 100 dispositivi in zone rurali e senza altri hotspot vicino, ogni epoca il reward adibito all'azienda è il 30% che si traduce approssimativamente in 20 HNT ogni 45-60 min di cui 1.4 HNT andranno nel fondo reward stacking e suddivise tra gli stacker,  i quali ipotiziamo siano anche loro 100 e effettuato staking in uguale proporzione, riceveranno 14000 EFS Token / 100 stackers = 140 EFS Token al termine di ogni epoca. Questo è un esempio di resa mininma che dovrebbe avere questo ecosistema, perchè i calcoli cambiano nel momento in cui gli hotspot riescono a comunicare tra loro perchè distribuiti in maniera ottimizzata sul territorio.
 
+|  resa      | hotspot | stackers  | HNT in riserva* |  EFS minati | EFSxstacker |
+|------------|---------|-----------|-----------------|-------------|-------------|
+| minima     |   100   |    100    |      1.40       |   14000.00  |   140.00    |
+| media      |   500   |    700    |     17.50       |  175000.00  |   250.00    |
+| alta       |  2000   |    5000   |    210.00       | 2100000.00  |   420.00    |
+
+tutto questo affiancato da una riserva di valore immobile di HNT per preservarne il valore e una riserva per assicurargli liquidità.
+
+*HNT in riserva: il calcolo è fatto con tre ipotesi diverse:
+1- resa media per hotspot aziendale di 0,20 HNT, 2- resa media per hotspot aziendale di 0,5 HNT, 3- resa media per hotspot aziendale di 1,5 hnt. le rese sono intese per ogni epoca.
+
 
 
 
