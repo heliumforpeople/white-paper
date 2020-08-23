@@ -160,6 +160,16 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli
 4) 7% Riserva valore reward stacking: Assicura sotenibilità al sistema di reward dello stacking sulla piattaforma ( incrementa valore HNT incentiva l'utilizzo della piattaforma e aumenta l'esperienza dell'utente ( incrementa il valore deglio HNT e da la possibilità a chi non può detenere un hotspot di partecipare al network e alla governance )
 5) 5% Riserva valore reward sistema governance: assicura e incentiva l'utilizzo della governance e los tudio da parte dell'utente ( incrementa valore HNT e aumenta l'esperienza sia da parte dell'utente che delle start-up )
 
+
+| Riserva valore     | %      | 
+|--------------------|--------|
+| immobile/mining    |  5.00  | 
+| liquidità          |  7.00  | 
+| reward stacking    |  7.00  | 
+| reward governance  |  5.00  |
+
+
+
 **Mining EFS Token**
 
 
