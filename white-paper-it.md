@@ -3,7 +3,7 @@ Ecosistema di infrastrutture, minatori e finanziamento sviluppatori
 
 
 #### EFSociety
-##### Ultimo rilascio 15/08/2020
+##### Ultimo rilascio 23/08/2020
 
 ## Astratto
 
