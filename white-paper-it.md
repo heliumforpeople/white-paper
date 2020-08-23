@@ -82,6 +82,9 @@ Oltre ad avere queste due funzioni daranno la possibilità di :
 
 5. essere utilizzata come moneta di pagamento nelle applicazioni sviluppate con i "fondi comuni di sviluppo" che utilizzano la rete Helium Network.
 
+6. funzionare con un sistema deflattivo sugli HNT e avere un sistema di buy back e burning. 
+
+
 **In definitiva EFS Token e tutto il sistema Helium for People potrebbe fungere da volano sociale ed economico per Helium Network.**
 
 ## Piattaforma Helium for People
@@ -130,21 +133,26 @@ Le start-up che vogliono sviluppare IoT sulla Blockchain Helium possono presenta
 ## Gestione mining e riserve di valore
 
 Per rendere sostenibile il nostro ecosistema abbiamo bisogno di riserve di valore ben distribuite, equilibrate e funzionali allo scopo.
-Queste riserve di valore vengono generate tramite l'accumulo di HNT minati da Helium for People e vincolati con delle regole precise.
+Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli hostpot dati in comodato d'uso da Helium for People e vincolati con delle regole precise.
 
 **Divisione mining HNT**
 
-1) Utente 30% (5% riserva di valore)
-2) Fondo comune sviluppo 30% (7% riserva di valore)
-3) Helium for People azienda 30% ( 7% riserva di valore )
-4) Fondo marketing 10% ( 5% riserva di valore )
+1) Utente 30% (5% riserva di valore immobile/mining)
+2) Fondo comune sviluppo 30% (7% riserva di valore liquidità)
+3) Helium for People azienda 30% ( 7% riserva di valore reward stacking, 3% buy back* )
+4) Fondo marketing 10% ( 5% riserva di valore sistema governance )
+ 
 
-**Divisione mining HNT**
+**Riserve di valore**
 
-1) 30% Riserva valore immobile: assicura un valore al EFS Token dato dal corrispettivo vincolato in HNT ( incrementa il valore degli HNT stessi )
-2) 25% Riserva valore mining: incentiva l'espansione della rete e rende possibile un sistema di governance legato a questa tecnologia e teoricamente potrebbe riempire alcune lacune ( incrementa il valore degli HNT stessi )
-3) 15% Riserva valore liquidità; assicura liquidità all'utente e alle start-up ( incrementa il valore degli HNT e incentiva l'utilizzo della blockchain )
-4) 10% Riserva valore reward stacking: Assicura sotenibilità al sistema di reward dello stacking sulla piattaforma ( incrementa valore HNT incentiva l'utilizzo della piattaforma e aumenta l'esperienza dell'utente ( incrementa il valore deglio HNT e da la possibilità a chi non può detenere un hotspot di partecipare al network e alla governance )
-5) 10% Riserva valore reward sistema governance: assicura e incentiva l'utilizzo della governance e los tudio da parte dell'utente ( incrementa valore HNT e aumenta l'esperienza sia da parte dell'utente che delle start-up )
+1) 5%* Riserva valore immobile/mining: assicura un valore al EFS Token dato dal corrispettivo vincolato in HNT ( incrementa il valore degli HNT stessi )
+2) 5%* Riserva valore mining/immobile: incentiva l'espansione della rete e rende possibile un sistema di governance legato a questa tecnologia e teoricamente potrebbe riempire alcune lacune ( incrementa il valore degli HNT stessi )
+3) 7% Riserva valore liquidità; assicura liquidità all'utente e alle start-up ( incrementa il valore degli HNT e incentiva l'utilizzo della blockchain )
+4) 7% Riserva valore reward stacking: Assicura sotenibilità al sistema di reward dello stacking sulla piattaforma ( incrementa valore HNT incentiva l'utilizzo della piattaforma e aumenta l'esperienza dell'utente ( incrementa il valore deglio HNT e da la possibilità a chi non può detenere un hotspot di partecipare al network e alla governance )
+5) 5% Riserva valore reward sistema governance: assicura e incentiva l'utilizzo della governance e los tudio da parte dell'utente ( incrementa valore HNT e aumenta l'esperienza sia da parte dell'utente che delle start-up )
+
+**Mining EFS Token**
+
+
 
 
