@@ -143,12 +143,12 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli
 4) Fondo marketing 10% ( 5% riserva di valore sistema governance )
 
 
-                                                                |            | % lorda | % riserve |
-                                                                |------------|---------|-----------|
-                                                                | utente     |  30.00  |    5.00   |
-                                                                | sviluppo   |  30.00  |    7.00   |
-                                                                | azienda    |  30.00  |    7.00   |
-                                                                | marketing  |  10.00  |    5.00   |
+|            | % lorda | % riserve |
+|------------|---------|-----------|
+| utente     |  30.00  |    5.00   |
+| sviluppo   |  30.00  |    7.00   |
+| azienda    |  30.00  |    7.00   |
+| marketing  |  10.00  |    5.00   |
 
  
 
