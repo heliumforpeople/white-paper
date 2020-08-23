@@ -161,5 +161,16 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli
 
 **Mining EFS Token**
 
+Il mining di EFS Token avviene in due modi tramite il comodato d'uso di un hotspot Helium for People e tramite lo stacking sulla piattaforma online.
+I blocchi vengono creati tramite il vincolo di HNT nelle riserve di valore, mai un EFS Token verrà creato senza un controvalore, questo per assicurare un economia del Token salubre.
 
+La quantità di EFS Token presenti in ogni blocco inizialmente parte da 10.000* EFS Token con un programma di halving prestabilito che ridurrà la quantità di EFS Token presenti in ogni blocco con il passare del tempo e con il crescere dell'ecosistema.
+Questo aiuterà inizialmente ad incentivare il mining e l'espansione della rete mentre long term aiuterà EFS Token ad apprezzarsi di valore così da ricompensare gli utenti e le start-up.
 
+gli halving avranno due fattori che ne determineranno l'attuazione, il quantitativo di Token in fornitura totale nel mercato e il tempo. Ovvero gli halving inevitabilmente prenderanno luogo ma la velocità con cui prenderanno luogo sarà influenzata dal quantitativo di moneta circolante (questo comunque è ancora da determinare nel dettaglio e forse fatto decidere tramite sistema di governance dall'utente).
+Ad esempio i primi sei mesi ogni HNT produrrà 10.000 EFS Token per ogni HNT come controvalore fino al raggiungimento di 100m di totale circolante, nel momento in cui si raggiunge questo limite automaticamente la quantità degli EFS Token generati come controvalore di 1 HNT non saranno più 10.000 ma 5.000 e così via.
+
+Quindi un utente che ad esempio detiene in comodato d'uso un hotspot Helium for People in un'area rurale (quindi il minimo della resa) otterra ogni blocco in ricompensa ogni blocco minato 0,20 / 0,30 HNT e 100 / 150 EFS Token
+
+I quali a loro volta potranno essere potranno essere messi in stacking sulla piattaforma per avere un altro modo di acumulare critovaluta, la quantità di EFS Token messa in staking generera una reward ogni blocco minato dal sistema Helium for People in proporzione alla quantita messa in staking.
+Infatti la riserva di valore che genera gli EFS Token per distribuire le reward dello stacking (il 7% del 30% del minato dall'azienda verrà messo a disposizione per questo scopo)
