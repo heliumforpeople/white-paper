@@ -47,6 +47,11 @@ Gli HNT (Helium Network Token) hanno la funzione di riserva di valore per la pia
 
 Invece gli EFS token hanno la funzione di creare liquidità sulla piattaforma, incentivare gli investimenti esterni sugli sviluppi delle start-up e un sistema di governance.
 
+Con il sistema di governance si vuole creare un modo per far interagire direttamente l'utente con l'azienda che vuole fornirgli servizi per accrescere insieme l'utilizzo e la praticità di utilizzo di questa tecnologia.
+
+Invece con la creazione di questo ecosistema vogliamo incentivare il rapido sviluppo di questa tecnologia e la crescita di tutto quello ad essa correlato.
+
+
 ## HNT
 
 Gli Helium Network Token vengono utilizzati da Helium Network sia per ricompensare gli utenti per i servizi resi, sia come moneta per l'acquisizione dei dati da parte dei dispositivi IoT che li utilizzano.
