@@ -45,7 +45,7 @@ Il cittadino che entra a far parte della rete otterrà come ricompensa due tipi 
 
 Gli HNT (Helium Network Token) hanno la funzione di riserva di valore per la piattaforma e l'utente.
 
-Invece gli EFS token hanno la funzione di creare liquidità sulla piattaforma, incentivare gli investimenti esterni sugli sviluppi delle start-up e un sistema di governance.
+Invece gli EFS token hanno la funzione di creare liquidità sulla piattaforma, incentivare gli investimenti esterni sugli sviluppi delle start-up e un sistema di governance incentivando indirettamente un effetto deflattivo sul valore degli HNT.
 
 Con il sistema di governance si vuole creare un modo per far interagire direttamente l'utente con l'azienda che vuole fornirgli servizi per accrescere insieme l'utilizzo e la praticità di utilizzo di questa tecnologia.
 
@@ -146,4 +146,5 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati da He
 3) 15% Riserva valore liquidità; assicura liquidità all'utente e alle start-up ( incrementa il valore degli HNT e incentiva l'utilizzo della blockchain )
 4) 10% Riserva valore reward stacking: Assicura sotenibilità al sistema di reward dello stacking sulla piattaforma ( incrementa valore HNT incentiva l'utilizzo della piattaforma e aumenta l'esperienza dell'utente ( incrementa il valore deglio HNT e da la possibilità a chi non può detenere un hotspot di partecipare al network e alla governance )
 5) 10% Riserva valore reward sistema governance: assicura e incentiva l'utilizzo della governance e los tudio da parte dell'utente ( incrementa valore HNT e aumenta l'esperienza sia da parte dell'utente che delle start-up )
+
 
