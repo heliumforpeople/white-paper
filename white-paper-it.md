@@ -133,3 +133,12 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati da He
 2) Fondo comune sviluppo 30% (7% riserva di valore)
 3) Helium for People azienda 30% ( 7% riserva di valore )
 4) Fondo marketing 10% ( 5% riserva di valore )
+
+**Divisione mining HNT**
+
+1) 30% Riserva valore immobile: assicura un valore al EFS Token dato dal corrispettivo vincolato in HNT ( incrementa il valore degli HNT stessi )
+2) 25% Riserva valore mining: incentiva l'espansione della rete e rende possibile un sistema di governance legato a questa tecnologia e teoricamente potrebbe riempire alcune lacune ( incrementa il valore degli HNT stessi )
+3) 15% Riserva valore liquidità; assicura liquidità all'utente e alle start-up ( incrementa il valore degli HNT e incentiva l'utilizzo della blockchain )
+4) 10% Riserva valore reward stacking: Assicura sotenibilità al sistema di reward dello stacking sulla piattaforma ( incrementa valore HNT incentiva l'utilizzo della piattaforma e aumenta l'esperienza dell'utente ( incrementa il valore deglio HNT e da la possibilità a chi non può detenere un hotspot di partecipare al network e alla governance )
+5) 10% Riserva valore reward sistema governance: assicura e incentiva l'utilizzo della governance e los tudio da parte dell'utente ( incrementa valore HNT e aumenta l'esperienza sia da parte dell'utente che delle start-up )
+
