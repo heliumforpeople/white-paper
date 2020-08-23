@@ -15,7 +15,7 @@ Gli investitori solitamente non sono persone molto pazienti, infatti due sono i 
 
 Ovvero in quanto tempo un investimento gli creare un determinato profitto, parametro che
 
-non si collima con quello degli sviluppatori, i quali, per lavorare bene, hanno bisogno di tempo e risorse.
+non collima con quello degli sviluppatori, i quali, per lavorare bene, hanno bisogno di tempo e risorse.
 
 Ma oltre gli Investitori quel'è l'altra figura presente in questo scenario, che può avere il potere di cambiare questo sistema?
 
