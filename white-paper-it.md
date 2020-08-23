@@ -95,9 +95,9 @@ Le figure principali nella piattaforma saranno:
 1. Utente base
 2. Utente che ha ottenuto hotspot gratuitamente
 3. Utente che lavora attivamete ( costruire la rete, Helium center e altri ruoli )
-4. sviluppatore
+4. Sviluppatore
 5. Utente stacker
-6. start-up
+6. Start-up
 
 Ognuna di queste figure è parte cruciale dell'ecosistema e del suo funzionamento, per questo è nostra intenzione creare una piattaforma che unisca tutte queste figure e così costruire il motore per incentivare l'utilizzo della tecnologia di Helium network 
 
@@ -115,10 +115,10 @@ Gli sviluppatori che contribuiranno allo sviluppo di progetti proposti sulla pia
 
 **Utente stacker**
 Qualsiasi utente potrà vicolare HNT per percepire delle reward. 
-Le reward verranno distribuite in EFS Token, che sarà utilizzato per il sistema di governance, avere liquidità sulla piattaforma e rendere più coinvolgente l'esperienza per l'utente che non può detenere un hotspot a casa o non vuole congestionare la rete perceh già risiede vicino un hotspot. 
+Le reward verranno distribuite in EFS Token, che sarà utilizzato per il sistema di governance, avere liquidità sulla piattaforma e rendere più coinvolgente l'esperienza per l'utente che non può detenere un hotspot a casa o non vuole congestionare la rete perchè già risiede vicino un hotspot. 
 
-
-
+**Start-up**
+Le start-up che vogliono sviluppare IoT sulla Blockchain Helium possono presentare il loro progetti e essere scelte dagli utenti tramite il sitema di governance per essere finanziate con i "fondi comuni per lo sviluppo".
 
 
 
@@ -129,6 +129,4 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati da He
 
                                                                         Divisione mining
                                                                         
-           Utente                               Fondo comune sviluppo                                    Helium for People                          Fondo Marketing 
-              
-               
+        Utente                                   Fondo comune sviluppo                              Helium for People                             Fondo Marketing    
