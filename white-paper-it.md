@@ -188,6 +188,8 @@ tutto questo affiancato da una riserva di valore immobile di HNT per preservarne
 *HNT in riserva: il calcolo è fatto con tre ipotesi diverse:
 1- resa media per hotspot aziendale di 0,20 HNT, 2- resa media per hotspot aziendale di 0,5 HNT, 3- resa media per hotspot aziendale di 1,5 hnt. le rese sono intese per ogni epoca.
 
+*Il valore EFS Token potrebbe essere stabilito tramite il rapporto del totale della moneta circolante/ il valore totale degli HNT presenti nella riserva immobile di valore, un esempio potrebbe essere il seguente: HNT presenti nella riserva di valore immobile sono 20000, il valore del singolo HNT è di 2$ quindi abbiamo una diserva con un valore di 40000$, diviso il totale circolante degli EFS Token esempio 800000000.00 il valore iniziale attribuito sarà 40000/800000000=0.00005$
+
 
 
 
