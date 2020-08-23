@@ -3,7 +3,7 @@ Ecosistema di infrastrutture, minatori e finanziamento sviluppatori
 
 
 #### EFSociety
-##### Ultimo rilascio 15/08/2020
+##### Ultimo rilascio 23/08/2020
 
 ## Astratto
 
@@ -174,3 +174,12 @@ Quindi un utente che ad esempio detiene in comodato d'uso un hotspot Helium for 
 
 I quali a loro volta potranno essere messi in stacking sulla piattaforma per avere un altro modo di acumulare critovaluta, la quantità di EFS Token messa in staking generera una reward ogni blocco minato dal sistema Helium for People in proporzione alla quantita messa in staking.
 Infatti la riserva di valore che genera gli EFS Token per distribuire le reward dello stacking (il 7% del 30% del minato dall'azienda verrà messo a disposizione per questo scopo)
+
+
+
+
+
+
+
+
+©2020 - erwin roio, federico paletta
