@@ -127,27 +127,9 @@ Le start-up che vogliono sviluppare IoT sulla Blockchain Helium possono presenta
 Per rendere sostenibile il nostro ecosistema abbiamo bisogno di riserve di valore ben distribuite, equilibrate e funzionali allo scopo.
 Queste riserve di valore vengono generate tramite l'accumulo di HNT minati da Helium for People e vincolati con delle regole precise.
 
-                                                                        Divisione mining HNT
-          
-          
-        Utente                                   Fondo comune sviluppo                              Helium for People                             Fondo Marketing    
-         30%                                           30%                                                30%                                           10%
-          5% riserva valore                             7% riserva valore                                  7% riserva valore                             5% riserva valore  
-          
-                                                                        
-                                                                        Divisione riserva di valore
-     
-     
-      Riserva valore immobile               Riserva valore liquidità               Riserva valore reward stacking                   Riserva reward sistema governance
-      assicura un valore minimo             assicura liquidità all'utente          assicura sostenibilità al sistema                assicura e incentiva l'utilizzo della
-      al EFS Token                          e alle start-up                        di reward                                        governance
-                                                                                          
-      incrementa valore HNT                 incrementa valore HNT                  incrementa valore HNT                            incrementa valore HNT
-                                            incentiva l'utilizzo della             incentiva l'utilizzo della                       incentiva l'utilizzo del sistema di
-           50% totale                       blockchain                             piattaforma e aumenta l'esperienza               governance e aumenta l'esperienza
-                                                                                   dell'utente                                      dell'utente
-                                                     25%                            
-                                                                                   da il modo a chi non può avere un                              5%
-                                                                                   hotspot di partecipare al network
-                                                                                   
-                                                                                                10%
+**Divisione mining HNT**
+
+1) Utente 30% (5% riserva di valore)
+2) Fondo comune sviluppo 30% (7% riserva di valore)
+3) Helium for People azienda 30% ( 7% riserva di valore )
+4) Fondo marketing 10% ( 5% riserva di valore )
