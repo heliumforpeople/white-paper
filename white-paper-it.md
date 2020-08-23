@@ -172,5 +172,5 @@ Ad esempio i primi sei mesi ogni HNT produrrà 10.000 EFS Token per ogni HNT com
 
 Quindi un utente che ad esempio detiene in comodato d'uso un hotspot Helium for People in un'area rurale (quindi il minimo della resa) otterra ogni blocco in ricompensa ogni blocco minato 0,20 / 0,30 HNT e 100 / 150 EFS Token
 
-I quali a loro volta potranno essere potranno essere messi in stacking sulla piattaforma per avere un altro modo di acumulare critovaluta, la quantità di EFS Token messa in staking generera una reward ogni blocco minato dal sistema Helium for People in proporzione alla quantita messa in staking.
+I quali a loro volta potranno essere messi in stacking sulla piattaforma per avere un altro modo di acumulare critovaluta, la quantità di EFS Token messa in staking generera una reward ogni blocco minato dal sistema Helium for People in proporzione alla quantita messa in staking.
 Infatti la riserva di valore che genera gli EFS Token per distribuire le reward dello stacking (il 7% del 30% del minato dall'azienda verrà messo a disposizione per questo scopo)
