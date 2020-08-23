@@ -59,6 +59,7 @@ Viceversa se un utente ha un gateway in suo possesso, il quale viene utilizzato 
 ## EFS
 
 Ma come vengono creati i EFS Token? gli EFS Token vengono creati con il contro valore degli HNT, ovvero ogni volta che l'ecosistema, l'utente o un investitore esterno converte degli HNT per degli EFS Token, gli HNT vengono vincolati in un fondo che fungerà da controvalore.
+
 Come se gli HNT fossero l'oro nelle casse delle banche di un tempo e gli EFS Token fossero le banconote create per dare più liquidità e incentivare la crescita dell'economia, questo sistema risulta inefficace solo nel momento in cui si dividono le due cose.
 Se poi la riserva che usiamo come controvalore ha modo di crescere matematicamente in base ad una costante o ad una variabile, possiamo generare un prodotto interno csotante o variabile, il quale se applicato ad un ecosistema equo e ben distribuito poterà giovamento a tutti quelli appartenenti a questo ecosistema.
 
@@ -91,12 +92,12 @@ Oltre a questo si aggiunge la necessità di sfruttare la blockchain perchè ques
 La piattaforma di Helium for People sarà un punto di connessione e interscambio per tutte le figure coinvolte nel mondo della tecnologia IoT senza escludere nessuno dal network.
 Le figure principali nella piattaforma saranno:
 
-a)Utente base
-b)Utente che ha ottenuto hotspot gratuitamente
-c)Utente che lavora attivamete ( costruire la rete, Helium center e altri ruoli )
-d)sviluppatore
-e)Utente stacker
-f)start-up
+1. Utente base
+2. Utente che ha ottenuto hotspot gratuitamente
+3. Utente che lavora attivamete ( costruire la rete, Helium center e altri ruoli )
+4. sviluppatore
+5. Utente stacker
+6. start-up
 
 Ognuna di queste figure è parte cruciale dell'ecosistema e del suo funzionamento, per questo è nostra intenzione creare una piattaforma che unisca tutte queste figure e così costruire il motore per incentivare l'utilizzo della tecnologia di Helium network 
 
