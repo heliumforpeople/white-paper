@@ -145,7 +145,7 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli
 
 1) 5%* Riserva valore immobile/mining: assicura un valore all'EFS Token dato dal corrispettivo vincolato in HNT (incrementa il valore dell'HNT stesso)
 2) 5%* Riserva valore mining/immobile: incentiva l'espansione della rete e rende possibile un sistema di governance legato a questa tecnologia e teoricamente potrebbe riempire alcune lacune (incrementa il valore degli HNT stessi)
-3) 7% Riserva valore liquidità: assicura liquidità all'utente e alle start-up (incrementa il valore dell'HNT e incentiva l'utilizzo della blockchain)
+3) 17% Riserva valore liquidità: assicura liquidità all'utente e alle start-up (incrementa il valore dell'HNT e incentiva l'utilizzo della blockchain)
 4) 7% Riserva valore reward stacking: assicura sostenibilità al sistema di reward dello stacking sulla piattaforma (incrementa il valore dell'HNT; incentiva l'utilizzo della piattaforma, aumenta l'esperienza dell'utente e dà la possibilità, a chi non può detenere un hotspot, di partecipare al network e alla governance)
 5) 5% Riserva valore reward sistema governance: assicura e incentiva l'utilizzo della governance e lo studio da parte dell'utente (incrementa il valore dell'HNT e migliora 'esperienza degli utenti e delle start-up).
 
