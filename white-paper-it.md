@@ -128,16 +128,16 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli
 **Divisione mining HNT**
 
 1) Utente 30% (5% riserva di valore immobile/mining)
-2) Fondo comune sviluppo 30% (7% riserva di valore liquidità)
-3) Helium for People azienda 30% (7% riserva di valore reward stacking, 3% buy back*)
+2) Fondo comune sviluppo 30% (12% riserva di valore liquidità)
+3) Helium for People azienda 30% (7% riserva di valore reward stacking,5% riserva di valore liquidità 3% buy back*)
 4) Fondo marketing 10% (5% riserva di valore sistema governance)
 
 
 |            | % lorda | % riserve |
 |------------|---------|-----------|
 | utente     |  30.00  |    5.00   |
-| sviluppo   |  30.00  |    7.00   |
-| azienda    |  30.00  |    7.00   |
+| sviluppo   |  30.00  |   12.00   |
+| azienda    |  30.00  |   12.00   |
 | marketing  |  10.00  |    5.00   |
 
  
@@ -153,7 +153,7 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli
 | Riserva valore     | %      | 
 |--------------------|--------|
 | immobile/mining    |  5.00  | 
-| liquidità          |  7.00  | 
+| liquidità          | 17.00  | 
 | reward stacking    |  7.00  | 
 | reward governance  |  5.00  |
 
