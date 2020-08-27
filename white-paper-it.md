@@ -66,15 +66,15 @@ Gli EFS Token avranno diverse funzioni, due saranno le principali: una è quella
 
 Oltre ad avere queste due funzioni daranno la possibilità di:
 
-1. ricevere interessi tramite lo stacking
+1. ricevere ricompense tramite lo stacking
 
-2. ottenere una ricompensa se nel sistema di governance si vota un'opzione che in seguito risulterà essere quella scelta dalla community
+2. ottenere una ricompensa se nel sistema di governance se si vota un'opzione che in seguito risulterà essere quella scelta dalla community
 
 3. aumentare il valore degli HNT vincolandone il maggior numero possibile
 
 4. rendere più vicino Helium Network alle narrative del mercato attuale
 
-5. essere utilizzata come moneta di pagamento nelle applicazioni sviluppate con i "fondi comuni di sviluppo" che utilizzano la rete Helium Network
+5. essere utilizzata come moneta di pagamento all'interno dell'ecosistema Helium for People per abbattere i costi delle fee
 
 6. funzionare con un sistema deflattivo sugli HNT e avere un sistema di buy back e burning. 
 
@@ -92,14 +92,18 @@ Oltre a questo si aggiunge la necessità di sfruttare la blockchain perchè ques
 La piattaforma di Helium for People sarà un punto di connessione e interscambio per tutte le figure coinvolte nel mondo della tecnologia IoT senza escludere nessuno dal network.
 Le figure principali della piattaforma saranno:
 
-1. Utente base
-2. Utente che ha ottenuto hotspot gratuitamente
-3. Utente che lavora attivamete (costruire la rete, Helium center e altri ruoli)
-4. Sviluppatore
-5. Utente stacker
-6. Start-up
+1. People Paladin
+2. Utente base
+3. Utente che ha ottenuto hotspot gratuitamente
+4. People Knight (costruire la rete, Helium center e altri ruoli)
+5. Sviluppatore
+6. Utente stacker
+7. Start-up
 
 Ognuna di queste figure è parte cruciale dell'ecosistema e del suo funzionamento, per questo è nostra intenzione creare una piattaforma che unisca tutte queste figure e costruire il motore che incentiverà l'utilizzo della tecnologia di Helium network.
+
+**People Paladin**
+Un People Paladin è un utente che parteciperà alle campagne di finanziamento dell'azienda Helium for People ed otterranno delle reward dedicate ed un sistema di mining dedicato, questo perchè saranno gli utenti che aiuteranno a rendere la nostra vision concreta.
 
 **Utente base**
 Utente che si registra alla piattaforma online di Helium for People, ha accesso a tutte le funzioni della piattaforma escluse le parti dedicate alle start-up, a chi lavora attivamente e alla governance.
@@ -107,7 +111,7 @@ Utente che si registra alla piattaforma online di Helium for People, ha accesso 
 **Utente che ha ottenuto Hotspot gratuito**
 "l'utente base" che ottiene un hotspot gratuito perchè può detenerlo in un punto di interesse, ha accesso alle reward del mining e alla governance, a differenza dell'account base.
 
-**Utente che lavora attivamente**
+**People Knight**
 Gli utenti che partecipano attivamente alla costruzione dell'ecosistema verranno ricompensati tramite delle reward derivanti dal "fondo per marketing", invece, chi si occupa dello sviluppo degli Helium Center verrà ricompensato tramite delle reward derivanti dal "fondo comune per lo sviluppo".
 
 **Sviluppatore**
@@ -129,8 +133,8 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli
 
 1) Utente 30% (5% riserva di valore immobile/mining)
 2) Fondo comune sviluppo 30% (12% riserva di valore liquidità)
-3) Helium for People azienda 30% (7% riserva di valore reward stacking,5% riserva di valore liquidità 3% buy back*)
-4) Fondo marketing 10% (5% riserva di valore sistema governance)
+3) Helium for People azienda 30% (5% riserva di valore reward stacking,5% riserva di valore liquidità, 2% reward Paladins)
+4) Fondo marketing 10% (5% riserva di valore sistema governance, 1% reward Paladins)
 
 
 |            | % lorda | % riserve |
@@ -138,17 +142,30 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli
 | utente     |  30.00  |    5.00   |
 | sviluppo   |  30.00  |   12.00   |
 | azienda    |  30.00  |   12.00   |
-| marketing  |  10.00  |    5.00   |
+| marketing  |  10.00  |    6.00   |
 
- 
+ La divisione del reward è inizialmente divisa in 4 parti:
+La prima è la parte dell'utente che ospita l'hotspot nella sua abitazione ed è del 30% di cui il 25% arriva direttamente all'utente in HNT mentre il 5% genera un fondo di riserva che genera EFS token i quali verranno dati in ricompensa sempre all'utente che ospita il gateway.
+
+La seconda parte, il 30% è destinata la fondo per lo sviluppo. di questo 30 %, il 18% verrà accumulato e messo a disposizione dello sviluppo degli Helium center e del finanziamento delle start-up, il restante 12% verrà accumulato nel fondo liquidità messo a disposizione per la liquidazione dell' EFS token.
+
+La terza parte, il 30% è quella destinata all'azienda Helium for People di cui il 18% verrà direttamente accumulato in HNT per coprire i costi dell'azienda mentre l'altro 12% diviso in 5% andrà nel fondo liquidità, mentre il 7% restante diviso in due riserve per generare EFS token , una riserva da 5% che è destinata alle reward dello stacking sulla piattaforma e il 2 % restante alla riserva per le reward dei People Paladin.
+
+La quarta e ultima parte del 10% è destinata al marketing 5% destinata alla riserva per generare EFS Token per le reward del sistema governance, 1% è convogliato nella reserva delle reward dei People Paladin.
+
+Questo sistema mira a creare delle riserve mobili e immobili, le riserve mobili sono le riserve che verranno direttamente utilizzate in HNT per ricompensare l'utente, il marketing, l'azienda e le persone che lavorano attivamente nel network di Helium for People. Una riserva immobile molto importante per la tutela dell'ecosistema sarà la riserva adibita alla liquidità degli EFS Token.
+
+Le riserve immobili invece sono le riserve messe a controvalore per la creazione degli EFS token e saranno riserve vincolate allo scopo di far crescere il valore degli HNT e degli EFS token, le quali avranno come antagonista la riserva mobile per la liquidità. Ovvero il sistema accumula la stessa quantità totale di HNT messi nelle riserve immobili per generare EFS token anche nella riserva mobile per la liquidità. Questa strategia assicura agli utenti e alle start-up sempre la disponibilità immediata di fondi per swappare tra una criptovaluta e l'latra, anche se tutti gli utenti utilizzassero questo servizio in simultanea.
+
 **Riserve di valore**
 
 1) 5%* Riserva valore immobile/mining: assicura un valore all'EFS Token dato dal corrispettivo vincolato in HNT (incrementa il valore dell'HNT stesso)
 2) 5%* Riserva valore mining/immobile: incentiva l'espansione della rete e rende possibile un sistema di governance legato a questa tecnologia e teoricamente potrebbe riempire alcune lacune (incrementa il valore degli HNT stessi)
 3) 17% Riserva valore liquidità: assicura liquidità all'utente e alle start-up (incrementa il valore dell'HNT e incentiva l'utilizzo della blockchain)
-4) 7% Riserva valore reward stacking: assicura sostenibilità al sistema di reward dello stacking sulla piattaforma (incrementa il valore dell'HNT; incentiva l'utilizzo della piattaforma, aumenta l'esperienza dell'utente e dà la possibilità, a chi non può detenere un hotspot, di partecipare al network e alla governance)
+4) 5% Riserva valore reward stacking: assicura sostenibilità al sistema di reward dello stacking sulla piattaforma (incrementa il valore dell'HNT; incentiva l'utilizzo della piattaforma, aumenta l'esperienza dell'utente e dà la possibilità, a chi non può detenere un hotspot, di partecipare al network e alla governance)
 5) 5% Riserva valore reward sistema governance: assicura e incentiva l'utilizzo della governance e lo studio da parte dell'utente (incrementa il valore dell'HNT e migliora 'esperienza degli utenti e delle start-up).
-
+6) 3% reward People Paladin: riserva di valore destinata alle reward dei People Paladins che partecipano alle cmapagne di finanziamento 
+*le riserve di valore 1 e 2 sono le stessa cosa
 
 | Riserva valore     | %      | 
 |--------------------|--------|
@@ -156,7 +173,7 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli
 | liquidità          | 17.00  | 
 | reward stacking    |  7.00  | 
 | reward governance  |  5.00  |
-
+| reward Paladins    |  3.00  |
 
 
 **Mining EFS Token**
@@ -173,17 +190,15 @@ Ad esempio i primi sei mesi ogni HNT produrrà 10.000 EFS Token per ogni HNT com
 Quindi un utente che ad esempio detiene in comodato d'uso un hotspot Helium for People in un'area rurale (quindi il minimo della resa) otterra ogni blocco in ricompensa ogni blocco minato 0,20 / 0,30 HNT e 100 / 150 EFS Token
 
 I quali a loro volta potranno essere messi in stacking sulla piattaforma per avere un altro modo di acumulare critovaluta, la quantità di EFS Token messa in staking generera una reward ogni blocco minato dal sistema Helium for People in proporzione alla quantita messa in staking.
-Infatti la riserva di valore che genera gli EFS Token per distribuire le reward dello stacking (il 7% del 30% del minato dall'azienda) verrà messo a disposizione per questo scopo).
-Quindi ad ogni blocco minato da hotspot Helium for People dal 30% del minato aziendale verrà detratto il 7% il quale verra diviso tra gli stacker, un esempio:
-ipotiziamo che la rete all'inizio conta 100 dispositivi in zone rurali e senza altri hotspot vicino, ogni epoca il reward adibito all'azienda è il 30% che si traduce approssimativamente in 20 HNT ogni 45-60 min di cui 1.4 HNT andranno nel fondo reward stacking e suddivise tra gli stacker,  i quali ipotiziamo siano anche loro 100 e effettuato staking in uguale proporzione, riceveranno 14000 EFS Token / 100 stackers = 140 EFS Token al termine di ogni epoca. Questo è un esempio di resa mininma che dovrebbe avere questo ecosistema, perchè i calcoli cambiano nel momento in cui gli hotspot riescono a comunicare tra loro perchè distribuiti in maniera ottimizzata sul territorio.
+Infatti la riserva di valore che genera gli EFS Token per distribuire le reward dello stacking (il 5% del 30% del minato dall'azienda) verrà messo a disposizione per questo scopo).
+Quindi ad ogni blocco minato da hotspot Helium for People dal 30% del minato aziendale verrà detratto il 5% il quale verra diviso tra gli stacker, un esempio:
+ipotiziamo che la rete all'inizio conta 100 dispositivi in zone rurali e senza altri hotspot vicino, ogni epoca il reward adibito all'azienda è il 30% che si traduce approssimativamente in 20 HNT ogni 45-60 min di cui 1 HNT andrà nel fondo reward stacking e suddivise tra gli stacker,  i quali ipotiziamo siano anche loro 100 e effettuato staking in uguale proporzione, riceveranno 10000 EFS Token / 100 stackers = 100 EFS Token al termine di ogni epoca. Questo è un esempio di resa mininma che dovrebbe avere questo ecosistema, perchè i calcoli cambiano nel momento in cui gli hotspot riescono a comunicare tra loro perchè distribuiti in maniera ottimizzata sul territorio.
 
 |  resa      | hotspot | stackers  | HNT in riserva* |  EFS minati | EFSxstacker |
 |------------|---------|-----------|-----------------|-------------|-------------|
-| minima     |   100   |    100    |      1.40       |   14000.00  |   140.00    |
-| media      |   500   |    700    |     17.50       |  175000.00  |   250.00    |
-| alta       |  2000   |    5000   |    210.00       | 2100000.00  |   420.00    |
+| minima     |   100   |    100    |      1.00       |   10000.00  |   100.00    |
 
-tutto questo affiancato da una riserva di valore immobile di HNT per preservarne il valore e una riserva per assicurargli liquidità.
+tutto questo affiancato da una riserva di valore immobile di HNT per preservarne il valore e una riserva mobile per assicurargli liquidità.
 
 *HNT in riserva: il calcolo è fatto con tre ipotesi diverse:
 1- resa media per hotspot aziendale di 0,20 HNT, 2- resa media per hotspot aziendale di 0,5 HNT, 3- resa media per hotspot aziendale di 1,5 hnt. le rese sono intese per ogni epoca.
