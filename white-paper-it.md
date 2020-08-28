@@ -205,7 +205,7 @@ tutto questo affiancato da una riserva di valore immobile di HNT per preservarne
 
 ## EFS Token e sistema di governance
 
-Il motivo principale della creazione degli EFS Token è avere il modo di poter creare e gestire un sistema di governbance fluido stabile e remunerativo per i partecipanti.
+Il motivo principale della creazione degli EFS Token è avere il modo di poter creare e gestire un sistema di governance fluido stabile e remunerativo per i partecipanti.
 Infatti Per le reward del sistema govenance viene messo a disposizione un fondo di HNT pari al 5% del totale del mining degli hotspot helium for people, un totale di 10000 EFS Token per ogni HNT presente in questa riserva ( i possessori EFS Token potrenno sempre accedere alle riserve e scambiari i loro EFS Token con l'equivalente del valore in HNT).
 
 ma come funziona il sistema di governance?
@@ -214,6 +214,17 @@ i possessori di EFS Token possono accedere al sistema di governance che gestisce
 una volta ogni X mesi ( X sarà stabilito dal volume di crescita dei fondi ) le start-up che hanno presentato progetti sulla piattaforma avranno accesso ad un bando dove gli utenti possessori di EFS Token potranno usarli per votare il progetto che più gli piace, una volta che il bando è terminato verrà calcolata la volotà degli utenti tramite gli EFS Token utilizzati per votare un progetto.
 Il progetto che otterrà più EFS Token sarà il progetto che verrà finanziato tramite i fondi comuni. Invece gli utenti che hanno votato il progetto giusto verranno ricompensati con un equivalente di EFS Token in base al loro lvl sulla piattaforma ( il lvl utente sulla piattaforma è dato dalla quantità di stacking effettuato ) e alla quantità di Token utilizzati per votare la start-up. Le ricompense degli utenti provengono dal fondo reward per il sistema di governance e possono essere scambiate in qualsiasi momento dall'utente in HNT.
 La situazione opposta invece si verificherà per gli utenti che hanno votato il progetto sbagliato i quali in % perderanno i loro EFS Token i quali verranno bruciati. Questo spingerà gli utenti a studiare i progetti presentati e diventarte parte attiva degli sviluppi e ricompenserà quegli utenti che partecipano, si interessano alla crescita del network e della tecnologia anche non potendo possedere un hotspot.
+Oltre ad incentivare l'utilizzo della governance con questo sistema si cerca anche di premiare a lungo termine chi è capace di capire le potenzialità di tutto questo ecosistema, infatti i detentori dei token perla governancevedranno salire il valore dei propri token in base a quanto viene usato il sitema di governance e a quante start-up si propongono di sviluppare sulla blockchain Helium tramite il nostro sistema di finanziamento.
+
+## Helium Center
+
+Come detto in precedenza il 15% del fondo per lo sviluppo comune è destinato allo sviluppo e il sostentamento degli Helium center, questi centri avranno la funzione di fulcro delle competenze sullo sviluppo della tecnologia IoT e incubatrici di start-up che aderiranno al progetto di founding sulla piattaforma.
+Gli HElium center dovranno essere sedi fisiche in modo tale da diventare con il tempo punto di riferimento per il cittandino ma anche per le imprese, le quali troveranno negli Helium center un punto di riferimento per l'implementazione della tecnologia IoT nel loro sistemi produttivi.
+
+Gli Helium Center saranno gestiti da quelle persone che dimostreranno di avere le competenze e le capacità necessarie per farlo, le quali saranno pagate tramite i fondi messi a disposizione degli Helium center, infatti le riserve per gestire e sviluppare i centri servono anche per la remunerazione di chi se ne occupa.
+
+Invece le start-up che vorranno essere seguite e supportate durante tutti gli sviluppi del loro progetto avranno a disposizione anche tutti i mezzi necessari per portare a termine gli sviluppi.
+le start-up che decideranno di essere seguite e supportate dagli Helium Center dopo la fase di finanziamento avranno accesso piu facilmente ai fondi dato che si possono provare in maniera piu diretta gli avanzamenti dei lavori, a differenza delle start-up che verranno finanziate e non verranno seguite dagli helium center dovranno rispettare un rigida e seria tabella di avanzamento lavori laquale ad ogni traguardo sblocca una parte dei fondi.
 
 
 
