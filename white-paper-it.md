@@ -112,7 +112,7 @@ Utente che si registra alla piattaforma online di Helium for People, ha accesso 
 "l'utente base" che ottiene un hotspot gratuito perchè può detenerlo in un punto di interesse, ha accesso alle reward del mining e alla governance, a differenza dell'account base.
 
 **People Knight**
-Gli utenti che partecipano attivamente alla costruzione dell'ecosistema verranno ricompensati tramite delle reward derivanti dal "fondo per marketing", invece, chi si occupa dello sviluppo degli Helium Center verrà ricompensato tramite delle reward derivanti dal "fondo comune per lo sviluppo".
+Gli utenti che partecipano attivamente alla costruzione dell'ecosistema, si occuperanno della distribuzione degli hotspot sul territorio, dell'assistenza tecnica necessaria e verranno ricompensati tramite delle reward derivanti dal "fondo per marketing", invece, chi si occupa dello sviluppo degli Helium Center verrà ricompensato tramite delle reward derivanti dal "fondo comune per lo sviluppo".
 
 **Sviluppatore**
 Gli sviluppatori che contribuiranno allo sviluppo di progetti proposti sulla piattaforma verranno ricompensati tramite delle reward provenienti dal "fondo comune per lo sviluppo" e attribuite tramite il sistema di governance.
@@ -123,6 +123,11 @@ Le rewards verranno distribuite in EFS Token, che sarà utilizzato per il sistem
 
 **Start-up**
 Le start-up che vogliono sviluppare IoT sulla Blockchain Helium possono presentare il loro progetti ed essere scelte dagli utenti tramite il sistema di governance per essere finanziate con i "fondi comuni per lo sviluppo".
+
+## Sistema People Paladin
+
+
+
 
 ## Gestione mining e riserve di valore
 
@@ -202,6 +207,41 @@ tutto questo affiancato da una riserva di valore immobile di HNT per preservarne
 1- resa media per hotspot aziendale di 0,20 HNT. le rese sono intese per ogni epoca.
 
 *Il valore EFS Token potrebbe essere stabilito tramite il rapporto del totale della moneta circolante/ il valore totale degli HNT presenti nel totale delle riserve di valore, un esempio potrebbe essere il seguente: HNT presenti nella riserva di valore immobile sono 20000, il valore del singolo HNT è di 2$ quindi abbiamo una diserva con un valore di 40000$, diviso il totale circolante degli EFS Token esempio 200000000.00 il valore iniziale attribuito sarà 40000/200000000=0.0002$
+
+## EFS Token e sistema di governance
+
+Il motivo principale della creazione degli EFS Token è avere il modo di poter creare e gestire un sistema di governance fluido stabile e remunerativo per i partecipanti.
+Infatti Per le reward del sistema govenance viene messo a disposizione un fondo di HNT pari al 5% del totale del mining degli hotspot helium for people, un totale di 10000 EFS Token per ogni HNT presente in questa riserva ( i possessori EFS Token potrenno sempre accedere alle riserve e scambiari i loro EFS Token con l'equivalente del valore in HNT).
+
+ma come funziona il sistema di governance?
+i possessori di EFS Token possono accedere al sistema di governance che gestisce i fondi comuni per lo sviluppo adibiti al finanziamento di start-up che vogliono sviluppare su blockchain Helium.
+
+una volta ogni X mesi ( X sarà stabilito dal volume di crescita dei fondi ) le start-up che hanno presentato progetti sulla piattaforma avranno accesso ad un bando dove gli utenti possessori di EFS Token potranno usarli per votare il progetto che più gli piace, una volta che il bando è terminato verrà calcolata la volotà degli utenti tramite gli EFS Token utilizzati per votare un progetto.
+Il progetto che otterrà più EFS Token sarà il progetto che verrà finanziato tramite i fondi comuni. Invece gli utenti che hanno votato il progetto giusto verranno ricompensati con un equivalente di EFS Token in base al loro lvl sulla piattaforma ( il lvl utente sulla piattaforma è dato dalla quantità di stacking effettuato ) e alla quantità di Token utilizzati per votare la start-up. Le ricompense degli utenti provengono dal fondo reward per il sistema di governance e possono essere scambiate in qualsiasi momento dall'utente in HNT.
+La situazione opposta invece si verificherà per gli utenti che hanno votato il progetto sbagliato i quali in % perderanno i loro EFS Token i quali verranno bruciati. Questo spingerà gli utenti a studiare i progetti presentati e diventarte parte attiva degli sviluppi e ricompenserà quegli utenti che partecipano, si interessano alla crescita del network e della tecnologia anche non potendo possedere un hotspot.
+Oltre ad incentivare l'utilizzo della governance con questo sistema si cerca anche di premiare a lungo termine chi è capace di capire le potenzialità di tutto questo ecosistema, infatti i detentori dei token perla governancevedranno salire il valore dei propri token in base a quanto viene usato il sitema di governance e a quante start-up si propongono di sviluppare sulla blockchain Helium tramite il nostro sistema di finanziamento.
+
+## EFS Token e sistema di stacking
+
+la seconda funzione degli EFS Token è quella dello satcking sulla piattaforma, lo stacking sulla piattaforma comporta due vantaggi per l'utente che lo effettua.
+il primo vantaggio è quello di ricevere delle reward costanti ad ogni epoca solo per avere in stacking dei token (convertibili in HNT) sulla piattaforma il secondo è quello di aumentare il lvl dell'account in maniera tale da ricevere bonus sulla reward della governance.
+
+Lo stacking sulla piattaforma spingera ad accumulare piu HNT possibili da parte degli utenti in maniera tale da aumentare il valore dell'hnt stesso e di tutto ad esso correlato sistema che giova a tutti quelli che fanno parte del network dalle satrt-up a chi non detiene un hotspot e può solo fare stacking e contribuire al sistema di governance della piattaforma HElium for People.
+
+Una opportunità di gamificazione si trova proprio nello stacking infatti lo satcking sulla piattaforma sarà un'esperienza divertente ed interattiva che coinvolgerà l'utente con un sitema gestionale browser game.
+
+## Helium Center
+
+Come detto in precedenza il 15% del fondo per lo sviluppo comune è destinato allo sviluppo e il sostentamento degli Helium center, questi centri avranno la funzione di fulcro delle competenze sullo sviluppo della tecnologia IoT e incubatrici di start-up che aderiranno al progetto di founding sulla piattaforma.
+Gli HElium center dovranno essere sedi fisiche in modo tale da diventare con il tempo punto di riferimento per il cittandino ma anche per le imprese, le quali troveranno negli Helium center il massimo delle competene e dei mezzi per l'implementazione della tecnologia IoT nel loro sistemi produttivi.
+
+Gli Helium Center saranno gestiti da quelle persone che dimostreranno di avere le competenze e le capacità necessarie per farlo, le quali saranno pagate tramite i fondi messi a disposizione degli Helium center, infatti le riserve per gestire e sviluppare i centri servono anche per la remunerazione di chi se ne occupa.
+
+Invece le start-up che vorranno essere seguite e supportate durante tutti gli sviluppi del loro progetto avranno a disposizione anche tutti i mezzi necessari per portare a termine gli sviluppi.
+le start-up che decideranno di essere seguite e supportate dagli Helium Center dopo la fase di finanziamento avranno accesso piu facilmente ai fondi dato che si possono provare in maniera piu diretta gli avanzamenti dei lavori, a differenza delle start-up che verranno finanziate e non verranno seguite dagli helium center dovranno rispettare un rigida e seria tabella di avanzamento lavori laquale ad ogni traguardo sblocca una parte dei fondi.
+Gli Helium Center verranno fondati in base ai fondi raccolti e alla grandezza della comunità Helium for People, infatti più sarà grande la comunità più saranno grandi i fondi disponibile e più Helium center potranno essere aperti in tutta l'europa e in tutto il mondo.
+
+
 
 
 
