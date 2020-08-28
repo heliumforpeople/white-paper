@@ -76,7 +76,7 @@ Oltre ad avere queste due funzioni daranno la possibilità di:
 
 5. essere utilizzata come moneta di pagamento all'interno dell'ecosistema Helium for People per abbattere i costi delle fee
 
-6. funzionare con un sistema deflattivo sugli HNT e avere un sistema di buy back e burning. 
+6. funzionare con un sistema deflattivo sugli HNT. 
 
 
 **In definitiva gli EFS Token e tutto il sistema Helium for People potrebbero fungere da volano sociale ed economico per Helium Network.**
@@ -131,37 +131,38 @@ Queste riserve di valore vengono generate tramite l'accumulo di HNT minati dagli
 
 **Divisione mining HNT**
 
-1) Utente 30% (5% riserva di valore immobile/mining)
-2) Fondo comune sviluppo 30% (12% riserva di valore liquidità)
-3) Helium for People azienda 30% (5% riserva di valore reward stacking,5% riserva di valore liquidità, 2% reward Paladins)
+1) Utente 30% (5% riserva di valore mining)
+2) Fondo comune sviluppo 30% (15%$ destinato al finanziamento di start-up e 15% destinato agli Helium center)
+3) Helium for People azienda 30% (5% riserva di valore reward stacking, 2% reward Paladins)
 4) Fondo marketing 10% (5% riserva di valore sistema governance, 1% reward Paladins)
 
 
 |            | % lorda | % riserve |
 |------------|---------|-----------|
 | utente     |  30.00  |    5.00   |
-| sviluppo   |  30.00  |   12.00   |
-| azienda    |  30.00  |   12.00   |
+| sviluppo   |  30.00  |   00.00   |
+| azienda    |  30.00  |    7.00   |
 | marketing  |  10.00  |    6.00   |
 
- La divisione del reward è inizialmente divisa in 4 parti:
+La divisione del reward è inizialmente divisa in 4 parti:
+
 La prima è la parte dell'utente che ospita l'hotspot nella sua abitazione ed è del 30% di cui il 25% arriva direttamente all'utente in HNT mentre il 5% genera un fondo di riserva che genera EFS token i quali verranno dati in ricompensa sempre all'utente che ospita il gateway.
 
-La seconda parte, il 30% è destinata la fondo per lo sviluppo. di questo 30 %, il 18% verrà accumulato e messo a disposizione dello sviluppo degli Helium center e del finanziamento delle start-up, il restante 12% verrà accumulato nel fondo liquidità messo a disposizione per la liquidazione dell' EFS token.
+La seconda parte, il 30% è destinata la fondo per lo sviluppo. di questo 30 %, di cui il 15% sarà destinato allo sviluppo degli Helium Center e il restante 15% per finanziare le start-up o i progetti proposti dal sistema di governance.
 
-La terza parte, il 30% è quella destinata all'azienda Helium for People di cui il 18% verrà direttamente accumulato in HNT per coprire i costi dell'azienda mentre l'altro 12% diviso in 5% andrà nel fondo liquidità, mentre il 7% restante diviso in due riserve per generare EFS token , una riserva da 5% che è destinata alle reward dello stacking sulla piattaforma e il 2 % restante alla riserva per le reward dei People Paladin.
+La terza parte, il 30% è quella destinata all'azienda Helium for People di cui il 18% verrà direttamente accumulato in HNT per coprire i costi dell'azienda mentre l'altro 7% , una riserva da 5% che è destinata alle reward dello stacking sulla piattaforma e il 2 % restante alla riserva per le reward dei People Paladin.
 
 La quarta e ultima parte del 10% è destinata al marketing 5% destinata alla riserva per generare EFS Token per le reward del sistema governance, 1% è convogliato nella reserva delle reward dei People Paladin.
 
-Questo sistema mira a creare delle riserve mobili e immobili, le riserve mobili sono le riserve che verranno direttamente utilizzate in HNT per ricompensare l'utente, il marketing, l'azienda e le persone che lavorano attivamente nel network di Helium for People. Una riserva immobile molto importante per la tutela dell'ecosistema sarà la riserva adibita alla liquidità degli EFS Token.
+Questo sistema mira a creare delle riserve mobili e immobili, le riserve mobili sono le riserve che verranno direttamente utilizzate in HNT per ricompensare l'utente, il marketing, l'azienda e le persone che lavorano attivamente nel network di Helium for People o per finanziare i progetti delle start-up proposte dalla governance o per creare gli Helium center. 
 
-Le riserve immobili invece sono le riserve messe a controvalore per la creazione degli EFS token e saranno riserve vincolate allo scopo di far crescere il valore degli HNT e degli EFS token, le quali avranno come antagonista la riserva mobile per la liquidità. Ovvero il sistema accumula la stessa quantità totale di HNT messi nelle riserve immobili per generare EFS token anche nella riserva mobile per la liquidità. Questa strategia assicura agli utenti e alle start-up sempre la disponibilità immediata di fondi per swappare tra una criptovaluta e l'latra, anche se tutti gli utenti utilizzassero questo servizio in simultanea.
+Le riserve immobili invece sono le riserve messe a controvalore per la creazione degli EFS token e saranno riserve vincolate allo scopo di far crescere il valore degli HNT, ridurre al minimo il costo delle transazioni all'interno della piattaforma , avere la liquidità tale da poter sviluppare sistemi di gamification all'interno della piattaforma e incentivare il sistema di governance e lo stacking di HNT. 
 
 **Riserve di valore**
 
 1) 5%* Riserva valore immobile/mining: assicura un valore all'EFS Token dato dal corrispettivo vincolato in HNT (incrementa il valore dell'HNT stesso)
 2) 5%* Riserva valore mining/immobile: incentiva l'espansione della rete e rende possibile un sistema di governance legato a questa tecnologia e teoricamente potrebbe riempire alcune lacune (incrementa il valore degli HNT stessi)
-3) 17% Riserva valore liquidità: assicura liquidità all'utente e alle start-up (incrementa il valore dell'HNT e incentiva l'utilizzo della blockchain)
+3) 17% *riserva valore
 4) 5% Riserva valore reward stacking: assicura sostenibilità al sistema di reward dello stacking sulla piattaforma (incrementa il valore dell'HNT; incentiva l'utilizzo della piattaforma, aumenta l'esperienza dell'utente e dà la possibilità, a chi non può detenere un hotspot, di partecipare al network e alla governance)
 5) 5% Riserva valore reward sistema governance: assicura e incentiva l'utilizzo della governance e lo studio da parte dell'utente (incrementa il valore dell'HNT e migliora 'esperienza degli utenti e delle start-up).
 6) 3% reward People Paladin: riserva di valore destinata alle reward dei People Paladins che partecipano alle cmapagne di finanziamento 
@@ -169,8 +170,7 @@ Le riserve immobili invece sono le riserve messe a controvalore per la creazione
 
 | Riserva valore     | %      | 
 |--------------------|--------|
-| immobile/mining    |  5.00  | 
-| liquidità          | 17.00  | 
+| mining             |  5.00  |  
 | reward stacking    |  7.00  | 
 | reward governance  |  5.00  |
 | reward Paladins    |  3.00  |
@@ -200,10 +200,10 @@ ipotiziamo che la rete all'inizio conta 100 dispositivi in zone rurali e senza a
 
 tutto questo affiancato da una riserva di valore immobile di HNT per preservarne il valore e una riserva mobile per assicurargli liquidità.
 
-*HNT in riserva: il calcolo è fatto con tre ipotesi diverse:
-1- resa media per hotspot aziendale di 0,20 HNT, 2- resa media per hotspot aziendale di 0,5 HNT, 3- resa media per hotspot aziendale di 1,5 hnt. le rese sono intese per ogni epoca.
+*HNT in riserva: il calcolo è fatto:
+1- resa media per hotspot aziendale di 0,20 HNT. le rese sono intese per ogni epoca.
 
-*Il valore EFS Token potrebbe essere stabilito tramite il rapporto del totale della moneta circolante/ il valore totale degli HNT presenti nella riserva immobile di valore, un esempio potrebbe essere il seguente: HNT presenti nella riserva di valore immobile sono 20000, il valore del singolo HNT è di 2$ quindi abbiamo una diserva con un valore di 40000$, diviso il totale circolante degli EFS Token esempio 800000000.00 il valore iniziale attribuito sarà 40000/800000000=0.00005$
+*Il valore EFS Token potrebbe essere stabilito tramite il rapporto del totale della moneta circolante/ il valore totale degli HNT presenti nel totale delle riserve di valore, un esempio potrebbe essere il seguente: HNT presenti nella riserva di valore immobile sono 20000, il valore del singolo HNT è di 2$ quindi abbiamo una diserva con un valore di 40000$, diviso il totale circolante degli EFS Token esempio 200000000.00 il valore iniziale attribuito sarà 40000/200000000=0.0002$
 
 
 
