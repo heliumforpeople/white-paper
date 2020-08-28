@@ -203,7 +203,17 @@ tutto questo affiancato da una riserva di valore immobile di HNT per preservarne
 
 *Il valore EFS Token potrebbe essere stabilito tramite il rapporto del totale della moneta circolante/ il valore totale degli HNT presenti nel totale delle riserve di valore, un esempio potrebbe essere il seguente: HNT presenti nella riserva di valore immobile sono 20000, il valore del singolo HNT è di 2$ quindi abbiamo una diserva con un valore di 40000$, diviso il totale circolante degli EFS Token esempio 200000000.00 il valore iniziale attribuito sarà 40000/200000000=0.0002$
 
+## EFS Token e sistema di governance
 
+Il motivo principale della creazione degli EFS Token è avere il modo di poter creare e gestire un sistema di governbance fluido stabile e remunerativo per i partecipanti.
+Infatti Per le reward del sistema govenance viene messo a disposizione un fondo di HNT pari al 5% del totale del mining degli hotspot helium for people, un totale di 10000 EFS Token per ogni HNT presente in questa riserva ( i possessori EFS Token potrenno sempre accedere alle riserve e scambiari i loro EFS Token con l'equivalente del valore in HNT).
+
+ma come funziona il sistema di governance?
+i possessori di EFS Token possono accedere al sistema di governance che gestisce i fondi comuni per lo sviluppo adibiti al finanziamento di start-up che vogliono sviluppare su blockchain Helium.
+
+una volta ogni X mesi ( X sarà stabilito dal volume di crescita dei fondi ) le start-up che hanno presentato progetti sulla piattaforma avranno accesso ad un bando dove gli utenti possessori di EFS Token potranno usarli per votare il progetto che più gli piace, una volta che il bando è terminato verrà calcolata la volotà degli utenti tramite gli EFS Token utilizzati per votare un progetto.
+Il progetto che otterrà più EFS Token sarà il progetto che verrà finanziato tramite i fondi comuni. Invece gli utenti che hanno votato il progetto giusto verranno ricompensati con un equivalente di EFS Token in base al loro lvl sulla piattaforma ( il lvl utente sulla piattaforma è dato dalla quantità di stacking effettuato ) e alla quantità di Token utilizzati per votare la start-up. Le ricompense degli utenti provengono dal fondo reward per il sistema di governance e possono essere scambiate in qualsiasi momento dall'utente in HNT.
+La situazione opposta invece si verificherà per gli utenti che hanno votato il progetto sbagliato i quali in % perderanno i loro EFS Token i quali verranno bruciati. Questo spingerà gli utenti a studiare i progetti presentati e diventarte parte attiva degli sviluppi e ricompenserà quegli utenti che partecipano, si interessano alla crescita del network e della tecnologia anche non potendo possedere un hotspot.
 
 
 
