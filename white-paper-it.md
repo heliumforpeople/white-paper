@@ -112,7 +112,7 @@ Utente che si registra alla piattaforma online di Helium for People, ha accesso 
 "l'utente base" che ottiene un hotspot gratuito perchè può detenerlo in un punto di interesse, ha accesso alle reward del mining e alla governance, a differenza dell'account base.
 
 **People Knight**
-Gli utenti che partecipano attivamente alla costruzione dell'ecosistema verranno ricompensati tramite delle reward derivanti dal "fondo per marketing", invece, chi si occupa dello sviluppo degli Helium Center verrà ricompensato tramite delle reward derivanti dal "fondo comune per lo sviluppo".
+Gli utenti che partecipano attivamente alla costruzione dell'ecosistema, si occuperanno della distribuzione degli hotspot sul territorio, dell'assistenza tecnica necessaria e verranno ricompensati tramite delle reward derivanti dal "fondo per marketing", invece, chi si occupa dello sviluppo degli Helium Center verrà ricompensato tramite delle reward derivanti dal "fondo comune per lo sviluppo".
 
 **Sviluppatore**
 Gli sviluppatori che contribuiranno allo sviluppo di progetti proposti sulla piattaforma verranno ricompensati tramite delle reward provenienti dal "fondo comune per lo sviluppo" e attribuite tramite il sistema di governance.
@@ -123,6 +123,11 @@ Le rewards verranno distribuite in EFS Token, che sarà utilizzato per il sistem
 
 **Start-up**
 Le start-up che vogliono sviluppare IoT sulla Blockchain Helium possono presentare il loro progetti ed essere scelte dagli utenti tramite il sistema di governance per essere finanziate con i "fondi comuni per lo sviluppo".
+
+## Sistema People Paladin
+
+
+
 
 ## Gestione mining e riserve di valore
 
@@ -234,6 +239,11 @@ Gli Helium Center saranno gestiti da quelle persone che dimostreranno di avere l
 
 Invece le start-up che vorranno essere seguite e supportate durante tutti gli sviluppi del loro progetto avranno a disposizione anche tutti i mezzi necessari per portare a termine gli sviluppi.
 le start-up che decideranno di essere seguite e supportate dagli Helium Center dopo la fase di finanziamento avranno accesso piu facilmente ai fondi dato che si possono provare in maniera piu diretta gli avanzamenti dei lavori, a differenza delle start-up che verranno finanziate e non verranno seguite dagli helium center dovranno rispettare un rigida e seria tabella di avanzamento lavori laquale ad ogni traguardo sblocca una parte dei fondi.
+Gli Helium Center verranno fondati in base ai fondi raccolti e alla grandezza della comunità Helium for People, infatti più sarà grande la comunità più saranno grandi i fondi disponibile e più Helium center potranno essere aperti in tutta l'europa e in tutto il mondo.
+
+
+
+
 
 
 
