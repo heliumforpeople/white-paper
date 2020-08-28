@@ -160,11 +160,10 @@ Le riserve immobili invece sono le riserve messe a controvalore per la creazione
 
 **Riserve di valore**
 
-1) 5%* Riserva valore immobile/mining: assicura un valore all'EFS Token dato dal corrispettivo vincolato in HNT (incrementa il valore dell'HNT stesso)
-2) 5%* Riserva valore mining/immobile: incentiva l'espansione della rete e rende possibile un sistema di governance legato a questa tecnologia e teoricamente potrebbe riempire alcune lacune (incrementa il valore degli HNT stessi)
-3) 5% Riserva valore reward stacking: assicura sostenibilità al sistema di reward dello stacking sulla piattaforma (incrementa il valore dell'HNT; incentiva l'utilizzo della piattaforma, aumenta l'esperienza dell'utente e dà la possibilità, a chi non può detenere un hotspot, di partecipare al network e alla governance)
-4) 5% Riserva valore reward sistema governance: assicura e incentiva l'utilizzo della governance e lo studio da parte dell'utente (incrementa il valore dell'HNT e migliora 'esperienza degli utenti e delle start-up).
-5) 3% reward People Paladin: riserva di valore destinata alle reward dei People Paladins che partecipano alle cmapagne di finanziamento 
+1) 5% Riserva valore mining: fondo destinato al mining reward a chi possiede un hotspot helium for people (incrementa il valore dell'HNT stesso)
+2) 5% Riserva valore reward stacking: assicura sostenibilità al sistema di reward dello stacking sulla piattaforma (incrementa il valore dell'HNT; incentiva l'utilizzo della piattaforma, aumenta l'esperienza dell'utente e dà la possibilità, a chi non può detenere un hotspot, di partecipare al network e alla governance)
+3) 5% Riserva valore reward sistema governance: assicura e incentiva l'utilizzo della governance e lo studio da parte dell'utente (incrementa il valore dell'HNT e migliora 'esperienza degli utenti e delle start-up).
+4) 3% reward People Paladin: riserva di valore destinata alle reward dei People Paladins che partecipano alle cmapagne di finanziamento 
 *le riserve di valore 1 e 2 sono le stessa cosa
 
 | Riserva valore     | %      | 
