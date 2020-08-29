@@ -126,7 +126,11 @@ Le start-up che vogliono sviluppare IoT sulla Blockchain Helium possono presenta
 
 ## Sistema People Paladin
 
+Perchè People Paladin? perchè saranno i pilastri per la creazione del'ecosistema Helim for People e dell'espansione dello stesso. Saranno i Paladini difensori del nostro network.
 
+People Paladin è un ecosistema che funziona in simbiosi con l'ecosistema Helium for People, ed è stato creato allo scopo di avevere una fonte di finanziamento iniziale per avviare e inizialmente sostenere l'ecosistema Helium for People. Gli utenti che fanno parte dei People Paladin avranno un  sistema di reward del mining più remunerativo degli altri utenti perchè contibuiranno alla fase iniziale del progetto e in nua visione a lungo termine sarannno quelli che gioveranno di più di tutti e due gli ecosistemi ( senza generare eccessivi favoritismi o sbilanciamenti nelle reward del mining ).
+
+Le compagne per ricevere il titolo People Paladin e le relative reward saranno proposte sulla piattaforma Helium for People tramite una piccola gamificazione per l'utente
 
 
 ## Gestione mining e riserve di valore
