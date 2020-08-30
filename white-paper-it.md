@@ -243,6 +243,13 @@ Lo stacking sulla piattaforma spingera ad accumulare piu HNT possibili da parte 
 
 Una opportunità di gamificazione si trova proprio nello stacking infatti lo satcking sulla piattaforma sarà un'esperienza divertente ed interattiva che coinvolgerà l'utente con un sitema gestionale browser game.
 
+## Sistema divisione reward EFS Toke Governance, Stacking e People Paladin
+
+Il sistema di divisione delle reward derivanti dal programma di governance, stacking e People Paladins funzionano tutti allo stesso modo, abbiamo deciso di strutturare il sistema in questo modo per cercare di non rendere possibile monolizzare le reward.
+Infatti le reward derivanti dai suddetti sistemi vengono divise con metodo proporzionale in base a quanti utenti accedono alla reward è proporzionale alle parti che possiedono del sistema.
+è stato scelto di procedere in questo modo perchè in questo ecosistema al crescere del network cresce anche la profittabilità dello stesso, infatti più fondi sono presenti, più hotspot vengono posizionati, più Helium center vengono creati, si incrementa l'utilizzo della blockchain,  degli HNT, dei data credits e gli hotspot posizionati dalla piattaforma Helium for People diventano più remunerativi.
+In una situazione come quella descritta ovviamente chi entra a far parte del nostro ecosistema all'inizio indubbiamente riceverà il maggior ritorno ma anche tutti gli utenti che aderiranno successivamente avaranno la possibilità di trarne beneficio ed al contempo stesso gli utenti iniziali non vengono danneggiati dalla crescita del  numero di partecipanti.
+
 ## Helium Center
 
 Come detto in precedenza il 15% del fondo per lo sviluppo comune è destinato allo sviluppo e il sostentamento degli Helium center, questi centri avranno la funzione di fulcro delle competenze sullo sviluppo della tecnologia IoT e incubatrici di start-up che aderiranno al progetto di founding sulla piattaforma.
