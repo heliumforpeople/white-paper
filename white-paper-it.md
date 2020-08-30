@@ -138,6 +138,8 @@ Quindi al termine della campagna i People Paladins avranno a disposizione minimo
 
 Ogni People Paladin potrà accedere ad un canale diretto di comunicazione con l'azienda e supporto diretto sulla piattaforma, in maniera tale da formare il più possibile le persone che inizialemte comprendono la visione e che nel tempo potranno se lo vogliono aiutare il network a crescere ed essere ulteriormente ricompensati per il loro lavoro.
 
+Invece il restante 30% di ogni tranche viene utilizzato per far nascere l'ecosistema Helium for People e costruire l'azienda che se ne occuperà.
+
 
 ## Gestione mining e riserve di valore
 
