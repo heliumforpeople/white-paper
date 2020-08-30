@@ -177,6 +177,8 @@ Questo sistema mira a creare delle riserve mobili e immobili, le riserve mobili 
 
 Le riserve immobili invece sono le riserve messe a controvalore per la creazione degli EFS token e saranno riserve vincolate allo scopo di far crescere il valore degli HNT, ridurre al minimo il costo delle transazioni all'interno della piattaforma , avere la liquidità tale da poter sviluppare sistemi di gamification all'interno della piattaforma e incentivare il sistema di governance e lo stacking di HNT. 
 
+![descrizione immagine](https://alpha.heliumforpeople.com/static/media/ecosystem-hfp.97fc4e5c.jpg)
+
 **Riserve di valore**
 
 1) 5% Riserva valore mining: fondo destinato al mining reward a chi possiede un hotspot helium for people (incrementa il valore dell'HNT stesso)
