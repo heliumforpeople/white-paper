@@ -126,7 +126,21 @@ Le start-up che vogliono sviluppare IoT sulla Blockchain Helium possono presenta
 
 ## Sistema People Paladin
 
+Perchè People Paladin? perchè saranno i pilastri per la creazione del'ecosistema Helim for People e dell'espansione dello stesso. Saranno i Paladini difensori del nostro network.
 
+People Paladin è un ecosistema che funziona in simbiosi con l'ecosistema Helium for People, ed è stato creato allo scopo di avevere una fonte di finanziamento iniziale per avviare e inizialmente sostenere l'ecosistema Helium for People. Gli utenti che fanno parte dei People Paladin avranno un  sistema di reward del mining più remunerativo degli altri utenti perchè contibuiranno alla fase iniziale del progetto e in nua visione a lungo termine sarannno quelli che gioveranno di più di tutti e due gli ecosistemi ( senza generare eccessivi favoritismi o sbilanciamenti nelle reward del mining ).
+
+Le compagne per ricevere il titolo People Paladin e le relative reward saranno proposte sulla piattaforma Helium for People tramite una piccola gamificazione per l'utente, è presente una griglia di 2000 esagoni ogni esagono ha il volore di 10 HNT ed attribuisce all'utente che lo acquista il titolo People Paladin, i relativi benefici e la porzione dello 0,05% del mining che vine effettuato con gli  hotspot acquistati tramite la campagna People Paladins.
+La compagna è divisa in due trance da 1000 esagoni al termine di ogni trance si effettua il cambio in dollari degli HNT raccolti il 70% viene usato per l'acquisto di hotspot direttamente all'azienda Helium INC.
+AL valore attuale dell' HNT e al costo degli Hotspot compreso di tasse e spedizione ogni trance assicura un minimo di 15 hotspot al programma People Paladins.
+Tutto il processo di spedizione sarà pubblico e nel momento della ricezione degli hotspot dall'azienda Helium in 1 massimo 4 settimane saranno posizionati tutti gli hotspot seguendo una strategia accurata per ottimizzarne la resa, assicurando all'utente People Paladin la massima resa possibile di mining HNT ad ogni epoca dal primo giorno che gli hotspot cengono posizionati fino a quando l'azienda Helium e Helium for People opereranno sul mercato della tecnologia IoT.
+Quindi al termine della campagna i People Paladins avranno a disposizione minimo 30 hotspot ottimizzati nella posizione e nell'hardware per il mining di HNT.
+
+Ogni People Paladin potrà accedere ad un canale diretto di comunicazione con l'azienda e supporto diretto sulla piattaforma, in maniera tale da formare il più possibile le persone che inizialemte comprendono la visione e che nel tempo potranno se lo vogliono aiutare il network a crescere ed essere ulteriormente ricompensati per il loro lavoro.
+
+Invece il restante 30% di ogni tranche viene utilizzato per far nascere l'ecosistema Helium for People e costruire l'azienda che se ne occuperà.
+
+![descrizione immagine](https://alpha.heliumforpeople.com/static/media/ecosystem-paladins.b61bf55e.jpg)
 
 
 ## Gestione mining e riserve di valore
@@ -163,6 +177,8 @@ Questo sistema mira a creare delle riserve mobili e immobili, le riserve mobili 
 
 Le riserve immobili invece sono le riserve messe a controvalore per la creazione degli EFS token e saranno riserve vincolate allo scopo di far crescere il valore degli HNT, ridurre al minimo il costo delle transazioni all'interno della piattaforma , avere la liquidità tale da poter sviluppare sistemi di gamification all'interno della piattaforma e incentivare il sistema di governance e lo stacking di HNT. 
 
+![descrizione immagine](https://alpha.heliumforpeople.com/static/media/ecosystem-hfp.97fc4e5c.jpg)
+
 **Riserve di valore**
 
 1) 5% Riserva valore mining: fondo destinato al mining reward a chi possiede un hotspot helium for people (incrementa il valore dell'HNT stesso)
@@ -183,6 +199,7 @@ Le riserve immobili invece sono le riserve messe a controvalore per la creazione
 
 Il mining di EFS Token avviene in due modi tramite il comodato d'uso di un hotspot Helium for People e tramite lo stacking sulla piattaforma online.
 I blocchi vengono creati tramite il vincolo di HNT nelle riserve di valore, mai un EFS Token verrà creato senza un controvalore, questo per assicurare un economia del Token salubre.
+Viceversa non può uscire x quantita di HNT dalla riserva di valore se non viene bruciata l'equivalente quantità al cambio del valore in dollari in EFS Token, ovvero ogni volta che un utente scambierà EFS token in HNT gli EFS token vengono bruciati. 
 
 La quantità di EFS Token presenti in ogni blocco inizialmente parte da 10.000* EFS Token con un programma di halving prestabilito che ridurrà la quantità di EFS Token presenti in ogni blocco con il passare del tempo e con il crescere dell'ecosistema.
 Questo aiuterà inizialmente ad incentivare il mining e l'espansione della rete mentre long term aiuterà EFS Token ad apprezzarsi di valore così da ricompensare gli utenti e le start-up.
@@ -229,6 +246,13 @@ il primo vantaggio è quello di ricevere delle reward costanti ad ogni epoca sol
 Lo stacking sulla piattaforma spingera ad accumulare piu HNT possibili da parte degli utenti in maniera tale da aumentare il valore dell'hnt stesso e di tutto ad esso correlato sistema che giova a tutti quelli che fanno parte del network dalle satrt-up a chi non detiene un hotspot e può solo fare stacking e contribuire al sistema di governance della piattaforma HElium for People.
 
 Una opportunità di gamificazione si trova proprio nello stacking infatti lo satcking sulla piattaforma sarà un'esperienza divertente ed interattiva che coinvolgerà l'utente con un sitema gestionale browser game.
+
+## Sistema divisione reward EFS Toke Governance, Stacking e People Paladin
+
+Il sistema di divisione delle reward derivanti dal programma di governance, stacking e People Paladins funzionano tutti allo stesso modo, abbiamo deciso di strutturare il sistema in questo modo per cercare di non rendere possibile monolizzare le reward.
+Infatti le reward derivanti dai suddetti sistemi vengono divise con metodo proporzionale in base a quanti utenti accedono alla reward è proporzionale alle parti che possiedono del sistema.
+è stato scelto di procedere in questo modo perchè in questo ecosistema al crescere del network cresce anche la profittabilità dello stesso, infatti più fondi sono presenti, più hotspot vengono posizionati, più Helium center vengono creati, si incrementa l'utilizzo della blockchain,  degli HNT, dei data credits e gli hotspot posizionati dalla piattaforma Helium for People diventano più remunerativi.
+In una situazione come quella descritta ovviamente chi entra a far parte del nostro ecosistema all'inizio indubbiamente riceverà il maggior ritorno ma anche tutti gli utenti che aderiranno successivamente avaranno la possibilità di trarne beneficio ed al contempo stesso gli utenti iniziali non vengono danneggiati dalla crescita del  numero di partecipanti.
 
 ## Helium Center
 
