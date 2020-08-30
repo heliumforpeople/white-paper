@@ -195,6 +195,7 @@ Le riserve immobili invece sono le riserve messe a controvalore per la creazione
 
 Il mining di EFS Token avviene in due modi tramite il comodato d'uso di un hotspot Helium for People e tramite lo stacking sulla piattaforma online.
 I blocchi vengono creati tramite il vincolo di HNT nelle riserve di valore, mai un EFS Token verrà creato senza un controvalore, questo per assicurare un economia del Token salubre.
+Viceversa non può uscire x quantita di HNT dalla riserva di valore se non viene bruciata l'equivalente quantità al cambio del valore in dollari in EFS Token, ovvero ogni volta che un utente scambierà EFS token in HNT gli EFS token vengono bruciati. 
 
 La quantità di EFS Token presenti in ogni blocco inizialmente parte da 10.000* EFS Token con un programma di halving prestabilito che ridurrà la quantità di EFS Token presenti in ogni blocco con il passare del tempo e con il crescere dell'ecosistema.
 Questo aiuterà inizialmente ad incentivare il mining e l'espansione della rete mentre long term aiuterà EFS Token ad apprezzarsi di valore così da ricompensare gli utenti e le start-up.
