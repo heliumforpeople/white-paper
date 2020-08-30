@@ -140,6 +140,8 @@ Ogni People Paladin potrà accedere ad un canale diretto di comunicazione con l'
 
 Invece il restante 30% di ogni tranche viene utilizzato per far nascere l'ecosistema Helium for People e costruire l'azienda che se ne occuperà.
 
+![descrizione immagine](https://alpha.heliumforpeople.com/static/media/ecosystem-paladins.b61bf55e.jpg)
+
 
 ## Gestione mining e riserve di valore
 
