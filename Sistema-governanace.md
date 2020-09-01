@@ -28,3 +28,10 @@ Al termine del tempo attribuito alla campagna di votazione, si bloccheranno le t
 Il progetto o i progetti con nei wallet più EFS token saranno quelli scelti e poi finanziati e sviluppati tramite i <em>fondi comuni per lo sviluppo</em>* invece quelli ceh non raggiungono abbastanza voti verranno scartati.
 
 Dopo il conteggio e la divisione dei wallet in due categorie, quelli che hanno avuto successo e quelli che non hanno avuto successo.I primi tramite lo storico delle transazioni restituiranno agli utenti che hanno votato i loro token ed in più li eleggeranno per la reward della governance metre quelli che non hanno avuto successo per un minimo del 50% bruceranno gli EFS token mentre l'altro 50% verra ridistribuito e convolgiato nei fondi per le reward del sistema di governance.
+
+### Reward governance
+
+Gli utenti che vengono eletti per le reward del sistema di governance saranno ricmpensati tramite dei fondi raccolti dal mining degli hotspot della piattaforma Helium for People che saranno pari al 5% del mining totale.
+Ogni utente eletto riceverà, proporzionalmente a quanti utenti sono stati eletti, la sua parte e la vedrà crescere in base a quanti token ha in stacking sulla piattaforma.
+invece la distribuzione dei fondi raccolti da i wallet dei progetti scartati verrà divisa in base al numero di utenti in egual modo, in maniera tale da permettere anche all'utente novizio o con poco potere di voto di essere ricompensato in modo equo e solidale per l'impegno dimotrato.
+
