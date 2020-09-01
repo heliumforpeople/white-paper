@@ -1,5 +1,5 @@
 # Governance Helium for People
-<em>Noi del team di HElium for People pensiamo che quello che può rendere grande ogni progetto è la comunità che si genera al suo interno e tutte le persone che ne fanno parte, sia chi possiede competenze tecniche per aiutare direttamente il progetto a strutturarsi e crescere ma anche chi non ha le competenze tecniche è indispensabile nel momento in cui fornisce la sua opinione a riguardo gli sviluppi o le proposte fatte da chi ha le competenze tecniche per farlo.</em>
+<em>Noi del team di HElium for People pensiamo che quello che può rendere grande ogni progetto è la comunità che si genera al suo interno e tutte le persone che ne fanno parte, sia chi possiede competenze tecniche per aiutare direttamente il progetto a strutturarsi e crescere ma anche chi non ha le competenze tecniche è indispensabile nel momento in cui fornisce la sua opinione riguardo gli sviluppi o le proposte fatte da chi ha le competenze tecniche per farlo.</em>
 
 ### Introduzione
 
