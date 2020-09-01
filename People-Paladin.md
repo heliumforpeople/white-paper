@@ -53,20 +53,22 @@ La campagna People Paladin ha un regolamento ben preciso a cui tutti gli itenti 
 
 2) Non saranno accettati metodi di pagameto oltre quelli froniti sulla piattaforma o richieste di acquisto in privato.
 
-3) Dopo l'acquisto di una porzione della griglia non si effettuano rimborsi e si detiene sempre la propria porzione del minato, valutare bene l'acquisto.
+3) Al momento dell'acquisto l'utente dovrà fornire il wallet con il quale intende effettuare il pagamento ed avrà 24 ore di tempo per effettuarlo. Se il pagamento non perviene entro questo lasso di tempo l'acquisto verrà annullato e gli esagoni sbloccati.
 
-4) Il calcolo del valore degli HNT raccolti per valutare il numero di hotspot da acquistare si effettua al momento dell'acquisto.
+4) Dopo l'acquisto di una porzione della griglia non si effettuano rimborsi e si detiene sempre la propria porzione del minato, valutare bene l'acquisto.
 
-5) Al termine della raccolta per procedere all'acquisto degli hotspot avremo tempi tecnici di massimo 1 settimana e tutto il processo sara gestito direttamente con Helium inc. ,   pubblico e disponibile sulla piattaforma.
+5) Il calcolo del valore degli HNT raccolti per valutare il numero di hotspot da acquistare si effettua al momento dell'acquisto.
 
-6) Il processo di spedizione e il tracking della merce (qual'ora Helium ci può formire il tracking) sarà pubblico e disponibile sulla piattaforma.
+6) Al termine della raccolta per procedere all'acquisto degli hotspot avremo tempi tecnici di massimo 1 settimana e tutto il processo sara gestito direttamente con Helium inc. ,   pubblico e disponibile sulla piattaforma.
 
-7) Ogni Utente che avrà il titpolo di People Paladin ha a disposizione un canale diretto per comunicare con il team di Helium for People.
+7) Il processo di spedizione e il tracking della merce (qual'ora Helium ci può formire il tracking) sarà pubblico e disponibile sulla piattaforma.
 
-8) Dopo l'arrivo della merce nel magazzino di Helium for People le tempistiche per il deploy degli hotspot saranno variabili da 1 a 3 settimane, saranno disposti strategicamente secondo le funzioni della blockchain Helium per ottimizzarne la resa e in breve tempo sfruttati anche per la ricezione di dati.
+8) Ogni Utente che avrà il titpolo di People Paladin ha a disposizione un canale diretto per comunicare con il team di Helium for People.
 
-9) I People Paladin saranno sempre proprietari della loro porzione di mining e di tutti i benefici relativi al titolo senza limiti di tempo.
+9) Dopo l'arrivo della merce nel magazzino di Helium for People le tempistiche per il deploy degli hotspot saranno variabili da 1 a 3 settimane, saranno disposti strategicamente secondo le funzioni della blockchain Helium per ottimizzarne la resa e in breve tempo sfruttati anche per la ricezione di dati.
 
-10) Ogni People Paladin potrà visualizzare tutte le sue reward in tempo reale sul sul profilo sulla console della piattaforma Helium for People.
+10) I People Paladin saranno sempre proprietari della loro porzione di mining e di tutti i benefici relativi al titolo senza limiti di tempo.
 
-11) Di questa campagna People Paladin il 30% del ricavato verrà utilizzato per avviare l'azienda legale e l'acquisto di attrezzature necessarie agli sviluppi oltre che ricerca di nuove risorse necessarie al team.
+11) Ogni People Paladin potrà visualizzare tutte le sue reward in tempo reale sul sul profilo sulla console della piattaforma Helium for People.
+
+12) Di questa campagna People Paladin il 30% del ricavato verrà utilizzato per avviare l'azienda legale e l'acquisto di attrezzature necessarie agli sviluppi oltre che ricerca di nuove risorse necessarie al team.
