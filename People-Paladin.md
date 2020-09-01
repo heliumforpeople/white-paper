@@ -33,6 +33,15 @@ Helium for PEople questa percentuale verra ridistribuita 15% programma people pa
 
 5) <em>oltre queste percentuali, agli utenti con il titolo People Paladin convoglierà in totale il 3% del mining di tutti gli hotspot successivamente acquistati e posizionati posizionati dal programma Helium for PEople.</em> 
 
+### Benefici titolo People Paladin
+gli utenti che hanno il titolo People Paladin avranno dei benefici oltre quelli in criptovalute da questo titolo.
+
+Il primo beneficio, forse quello più importante è quello di avere un canale diretto, dedicato per comunicare direttamente con il team di Helium for People e per ricevere update sugli avanzamnte del progetto e dei traguardi aziendali.
+L'azienda ha come obiettivo la trasparenza è per questo tramite questo canale qual'ora lo vorranno, agli utenti saranno anche fornite informazioni su come l'azienda Helium for People sta investendo le priprie risorse.
+
+Una delle idee per coinvolgere di più l'utente all'interno della piattaforma Helium for People e del sistema di governance è l'eventuale gamificazione di alcuni processi o sistemi.
+Qual'ora questa cosa avvenga l'utente con il titolo di People Paladin sarà tra quelli che ne trarrà maggior beneficio.
+
 
 
 
@@ -42,7 +51,7 @@ La campagna People Paladin ha un regolamento ben preciso a cui tutti gli itenti 
 
 1) La campagna avrà inizio ad una data precisa pubblicata su i canali ufficiali minimo 1 settimana prima, non sarà possibile prenotare in alcun modo e tutti gli utenti dovranno registrasi sulla piattaforma Helium for People.(invitiamo gli utenti a registrarsi prima in maniera da essere pronti al momento del lancio
 
-2) Non saranno accettati metodi di pagnameto oltre quelli froniti sulla piattaforma o richieste di acquisto in privato.
+2) Non saranno accettati metodi di pagameto oltre quelli froniti sulla piattaforma o richieste di acquisto in privato.
 
 3) Dopo l'acquisto di una porzione della griglia non si effettuano rimborsi e si detiene sempre la propria porzione del minato, valutare bene l'acquisto.
 
