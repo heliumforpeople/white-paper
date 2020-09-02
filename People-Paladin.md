@@ -52,7 +52,7 @@ La campagna People Paladin ha un regolamento ben preciso a cui tutti gli itenti 
 
 2) Non saranno accettati metodi di pagameto oltre quelli froniti sulla piattaforma o richieste di acquisto in privato.
 
-3) Al momento dell'acquisto l'utente dovrà fornire il wallet con il quale intende effettuare il pagamento ed avrà 24 ore di tempo per effettuarlo. Se il pagamento non perviene entro questo lasso di tempo l'acquisto verrà annullato e gli esagoni sbloccati.
+3) Al momento dell'acquisto l'utente dovrà fornire il wallet con il quale intende effettuare il pagamento ed avrà 1 ora di tempo per effettuarlo. Se il pagamento non perviene entro questo lasso di tempo l'acquisto verrà annullato e gli esagoni sbloccati.
 
 4) Dopo l'acquisto di una porzione della griglia non si effettuano rimborsi e si detiene sempre la propria porzione del minato, valutare bene l'acquisto.
 
