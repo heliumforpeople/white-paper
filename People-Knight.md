@@ -18,4 +18,7 @@ Il numero dei People Knight sarà limitato, questo per non saturare i territori 
 
 ### Compiti People Knight
 
+Ricoprire il ruolo di People Knight sicuramente non è una cosa semplice o da poco conto infatti saranno loro che attivamente potranno aiutare il network a crescere trovando nuovi territori fertili per la tecnologia IoT.
+
+
 ### Programma ricompense People Knight
