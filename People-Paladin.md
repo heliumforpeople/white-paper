@@ -1,35 +1,34 @@
 # People Paladin
-pilastri dell'ecosistema Helium for People
+Pilastri dell'ecosistema Helium for People.
 
 ### Introduzione
 
-I'ecosistema che vogliamo creare con il progetto Helium for People è molto complesso e si basa tutto sulla gestione del mining dei gateway, infatti questo sistema è possibile renderlo concreto e remunerativo per tutta la comunità grazie alla gestione accurata di riserve di valore derivanti dall'accumulo di HNT, minati tramite gli hotspot acquistati e distribuiti da Helium for People.
-Proprio per questo, il primo step è acquistare un numero X di hotspot che fungeranno da pilastro per la realizzazione di questo progetto ed abbiamo deciso di proporre a quegli utenti più avvezzi alla tecnologia il programma People Paladin.
-IL programma People Paladin permetterà, a chi vuole, di acquistare una parte del mining di questi primi hotspot che verranno posizionati per creare il pilastro che serve a questo ecosistema per nascere.
-L'acquisto di porzioni di mining viene effettuato tramite delle campagne a tempo dove l'utente può acquistare un esagono di una griglia al quale è correlata la % di mining che il nostro nuovo People paladin si aggiudica.
+L'ecosistema che intendiamo creare con il progetto Helium for People è molto complesso e si basa interamente sulla gestione del mining dei gateway. Sarà possibile rendere questo sistema concreto e remunerativo per tutta la comunità attraverso la gestione accurata delle riserve di valore derivanti dall'accumulo di HNT minati tramite gli hotspot acquistati e distribuiti da Helium for People.
+Proprio per questo, il primo step è acquistare un numero X di hotspot che fungeranno da pilastro per la realizzazione del progetto e proponiamo agli utenti più avvezzi alla tecnologia, il programma People Paladin.
+Il programma People Paladin permetterà, a chi sarà interessato, di acquistare una parte del mining di questi primi hotspot che verranno posizionati per creare il pilastro che serve a questo ecosistema per nascere.
+L'acquisto di porzioni di mining viene effettuato tramite delle campagne a tempo dove l'utente può acquistare un esagono di una griglia al quale è correlata la percentuale di mining che il nostro nuovo People Paladin si aggiudica.
 
 ### Griglia di esagoni
-<em>abbiamo scelto di rappresentare la campagna People Paladin in questo modo perchè la griglia di esagoni sta a signidicare i blocchi della blockchain che man mano grazie ad ognuno di voi si illuminano e prendono vita, come prenderà vita successivamente Helium for People grazie ad ognuno di voi.</em>
+Rappresentiamo la campagna People Paladin con una griglia di esagoni che indica i blocchi della blockchain che man mano, grazie agli utenti, si illumineranno e prenderanno vita, così come prenderà vita, successivamente, Helium for People, grazie ad ogni utente.
 
-Una griglia di esagoni sarà presente sulla home della piattaforma HElium for PEople per tutto il tempo della campagna People Paladin e composta di 2000 parti.
-l'utente precedentemente registrato sulla piattaforma(se non è registrato dovrà registrarsi prima dell'acquisto della porzione) cliccando su un esagono lo prenota illuminandolo,
-ad ogni blocco che si illumina la percentuale relativa e la stima del relativo mining apparirà nella parte superiore della griglia.(le stime sono fatte in base allo stato attuale della blockchain e lecosistema Helium for people studiato perchè crescano).
+Sarà possibile visualizzare la griglia di esagoni sulla home della piattaforma Helium for People per tutta la durata della campagna People Paladin e sarà composta da 2000 esagoni. L'utente precedentemente registrato sulla piattaforma potrà selezionare un esagono e potrà vederlo illuminato al termine della prenotazione. Se non registrato, l'utente dovrà effettuare la registrazione prima dell'acquisto della porzione. 
+Ad ogni blocco che si illumina la percentuale relativa e la stima del relativo mining apparirà nella parte superiore della griglia. Le stime sono in base allo stato attuale della blockchain e dell'ecosistema Helium for People, studiato perchè crescano).
 
-Quando i primi 1000 esagoni vengono venduti e quindi saranno visualizzati sulla griglia illuminati, partirà il primo conteggio del valore relativo agli HNT raccolti e il relativo ordine con le tempistiche riportate nel regolamento. La stessa cosa succederà al completamento della griglia con il secondo ordine.
+Quando i primi 1000 esagoni saranno venduti e sarà quindi possibile visualizzarli, partirà il primo conteggio del valore relativo agli HNT raccolti e il relativo ordine in base alle tempistiche riportate nel regolamento. La stessa cosa avviene al completamento della griglia con il secondo ordine.
 
-Per alimentare già da subito il network Helium abbiamo deciso che l'acquisto degli esagoni sulla piattaforma Helium for people può essere effettuato solo in HNT così da indirettamente dargli beneficio e posizionarci vicino la comunity, soprattutto in questo primo step.
+Per alimentare in partenza il network Helium, l'acquisto degli esagoni sulla piattaforma Helium for People potrà essere effettuato solo in HNT a vantaggio della community Helium, soprattutto in questo primo step.
 
-### Reward People paladin
-La distribuzione delle reward del mining degli hotspot acquistati tramite il programma People Paladin verranno divise secondo le seguenti percentuali:
+### Reward People Paladin
+La distribuzione delle rewards del mining degli hotspot acquistati tramite il programma People Paladin verranno divise secondo le seguenti percentuali:
 
 1) 50% distribuito agli utenti del programma People Paladin
 
-2) 25% adibito all'acquisto regolare di hotspot da adibire alla piattaforma HElium for People(al raggiungimento di X numero hotspot, i quali riescono a sostentare il sistema 
-Helium for PEople questa percentuale verra ridistribuita 15% programma people paladins e il 10% all'azienda Helium for people o in altri progetti)
+2) 25% adibito all'acquisto regolare di hotspot per la piattaforma Helium for People (al raggiungimento di X hotspots che riescono a sostentare il sistema 
+Helium for People, questa percentuale verrà ridistribuita: il 15% al programma People Paladin e il 10% all'azienda Helium for People o altri progetti)
 
-3) 20% trattenuto dall'azienda Helium for People per coprire i costi e andare avanti con gli sviluppi
+3) 20% trattenuto dall'azienda Helium for People per coprire i costi e garantire le varie possibilità di sviluppo
 
-4) 5%  adibito alla riserva di valore per gli EFS Token*
+4) 5% adibito alla riserva di valore per gli EFS Token*
 
 5) <em>oltre queste percentuali, agli utenti con il titolo People Paladin convoglierà in totale il 3% del mining di tutti gli hotspot successivamente acquistati e posizionati posizionati dal programma Helium for PEople.</em> 
 
