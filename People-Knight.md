@@ -20,5 +20,20 @@ Il numero dei People Knight sarà limitato per non rischiare di saturare i terri
 
 Ricoprire il ruolo di People Knight sicuramente non è una cosa semplice o da poco conto. People Knight è l'utente che potrà aiutare il network a crescere trovando nuovi territori fertili per la tecnologia IoT.
 
+Il compito principale sarà creare gruppi di persone disposte ad ospitare un hotspot in comodato d'uso da Helium for People tenendo conto delle distanze disposte da Helium INC. per l'ottimizzazione delle reward.
+Una volta creato il gruppo di minimo 15 persone il People Knight dovrà contattate il team di Helium for People ed avviare la richiesta per il deploy dei nuovi hotspot nella nuova zona individuata.
+
+Il People Knight che ha creato il gruppo di persone disposte ad ospitare un hotspot ( saranno chiamati Helium Citizen ) ne diventeranno i coordinatori e punto di riferimento per il supporto tecnico.
+
+Infatti dovranno avere un canale di comunicazione diretto con i loro Helium Citizen per eventualemte risolvere problemi tecnici o aiutare l'utente all'apprezzamento dell'utilizzo della piattaforma Helium for People e le sue funzioni.
 
 ### Programma ricompense People Knight
+
+I People Knight che costruiranno la loro rete e la gestiranno nel corretto modo ne riceveranno ricompense equiparate al lavoro svolto.
+I People Knight riceveranno da ogni hotspot dato in comodato d'uso ai suoi citizen da minimo 1% a massimo 2% del mining reward ad ogni epoca per ogni hotspot dei suoi citizen, ad esempio con un gruppo minimo di 15 persone il People knight riverà tra 1 e il 2 % da 15 hotspot disposti per ottimizzare il mining reward.
+
+in più ogni 15 hotspot posizionati tramite Helium Citizen il nostro People Knight riceverà un hotspot helium for people gratuitamente (mining rewrad del programma Helium for People) questo hotspot dato in omaggio può essere posizionato ovunque si voglia pur sempre rispettando le distanze disposte dal'azienda per l'ottimizzazione del mining.
+
+La % di reward del programma è variabile e varia in base all'attività del People Knight all'interno del network, partecipazione alla governance, all'apliamento del network e a tutti i programmi proposti.
+
+Questo per incentivare i People Knight ad informarsi costantemente su i nuovi aggiornamenti e fare da guide per gli Helium Citizen che non hanno tempo o competenze per farlo.
