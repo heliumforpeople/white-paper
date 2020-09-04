@@ -6,7 +6,7 @@ Pilastri dell'ecosistema Helium for People.
 L'ecosistema che intendiamo creare con il progetto Helium for People è molto complesso e si basa interamente sulla gestione del mining dei gateway. Sarà possibile rendere questo sistema concreto e remunerativo per tutta la comunità attraverso la gestione accurata delle riserve di valore derivanti dall'accumulo di HNT minati tramite gli hotspot acquistati e distribuiti da Helium for People.
 Proprio per questo, il primo step è acquistare un numero X di hotspot che fungeranno da pilastro per la realizzazione del progetto e proponiamo agli utenti più avvezzi alla tecnologia, il programma People Paladin.
 Il programma People Paladin permetterà, a chi sarà interessato, di acquistare una parte del mining di questi primi hotspot che verranno posizionati per creare il pilastro che serve a questo ecosistema per nascere.
-L'acquisto di porzioni di mining viene effettuato tramite delle campagne a tempo dove l'utente può acquistare un esagono di una griglia al quale è correlata la percentuale di mining che il nostro nuovo People Paladin si aggiudica.
+L'acquisto di porzioni di mining viene effettuato tramite delle campagne a tempo dove l'utente può acquistare un esagono della griglia alla quale è correlata la percentuale di mining che il nostro nuovo People Paladin si aggiudica.
 
 ### Griglia di esagoni
 Rappresentiamo la campagna People Paladin con una griglia di esagoni che indica i blocchi della blockchain che man mano, grazie agli utenti, si illumineranno e prenderanno vita, così come prenderà vita, successivamente, Helium for People, grazie ad ogni utente.
