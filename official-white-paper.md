@@ -173,6 +173,25 @@ The mining reward of the hotspots of the H4P platform is divided as follows:
 1 - 70% allocated to the store of value for H4P token to give the rewards to the users of the platform
 2 - 30% allocated to the H4P company to cover management, development and marketing costs.
 The 30% collected by the company is divided as follows and intended for the following uses: 50% cover the costs of managing web and non-web infrastructures and pay salaries to the team; 30% to cover the development costs of the platform and IoT projects on the Helium blockchain and pay developer salaries; 20% to the retailer marketing to grow the H4P netwotk.
-The 70% allocated to the store of value for the H4P token is bound on a wallet to mine the H4P token in a ratio of 1: 10000 to divide the rewards as follows: 60% Paladin user program; 10% rewards program for Paladin users; 10% Citizen user program; 10% H4P stacking rewards on the liquidity pool in the platform; 5% reward for users who will participate in the LaunchPad program (allocated in other rewards until the LaunchPad is not available), 2% of the rewards are destined to be burned, last 3% non-allocated 
+The 70% allocated to the store of value for the H4P token is bound on a wallet to mine the H4P token in a ratio of 1: 10000 to divide the rewards as follows: 60% Paladin user program; 10% rewards program for Paladin users; 10% Citizen user program; 10% H4P stacking rewards on the liquidity pool in the platform; 5% reward for users who will participate in the LaunchPad program (allocated in other rewards until the LaunchPad is not available), 2% of the rewards are destined to be burned, last 3% non-allocated.
+
+The division of the rewards of the mining of the hotspots is divided in this way to give more relevance to the program for Paladins, because in the initial launch phase of the platform, it is the Paladins who activate all the self-financing mechanism of the H4P platform, which allows you to buy more and more Helium hotspots to be attributed to the H4P platform program and thus to the entire Helium for People ecosystem that we have created on the Cardano blockchain.
+The whole ecosystem is built and designed to maximize the yield for each user of the platform who becomes part of the H4P project without any barrier to entry, neither in terms of geographic location, distribution of coverage, initial investment and much more. 
+
+**Mining Reward Validator Division**
+
+Another important element for the performance of our entire ecosystem is the reward given by the creation of Validator on the Helium blockchain. In fact, as mentioned in the previous chapters, all the mined HNTs will be bound and kept aside as a reserve of value for the H4P Tokens, to optimize the yield of the entire ecosystem for all users, the H4P team has decided to create multiple Validators, based on the HNTs collected in the store of value AND use the rewards perceived by the Validators to convey them to the users of the Helium for People platform in H4P token.
+The mining deriving from the Validators will be divided as follows:
+
+1-15% H4P company
+2-85% H4P value store
+
+The created reserve of value will be divided as follows:
+
+20% Paladin user program, 3% Paladin invitation rewards program, 2% Citizen user program, 5% Merchant user program, 15% for users who will participate in the LaunchPad program, 3% for Burn, 5% unallocated and finally a part of the rewards will be destined to the incentive of the first slots sales sessions to become a Paladin user, 1st, 2nd, 3rd, 4th, 5th, 6th, 7th sale will have the following bonuses, 5%, 5 %, 6%, 10%, 10%
+
+A large part of these rewards will be destined for users who participate in the LaunchPad H4P used by all projects that exploit IoT technology and the Helium blockchain who want to expand their community to all users of the Cardano ecosystem.
+
+This is because when the Validators are created, the H4P platform will be mature enough to be able to attract companies that want to offer themselves to our audience and users will be incentivized to use this new function of the platform to receive more rewards and to become part of new projects. based on IoT technology even before they hit the market.
 
 **PLEASE NOTE THE WHITE PAPER IS UNDER REVIEW ANY INFORMATION SHARED MAY BE SUBJECT TO CHANGE**
