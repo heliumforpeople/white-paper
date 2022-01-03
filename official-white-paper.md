@@ -207,4 +207,41 @@ A large part of these rewards will be destined for users who participate in the 
 
 This is because when the Validators are created, the H4P platform will be mature enough to be able to attract companies that want to offer themselves to our audience and users will be incentivized to use this new function of the platform to receive more rewards and to become part of new projects. based on IoT technology even before they hit the market.
 
+**Liquidity pool and fee division**
+
+Another source of rewards for users will be the liquidity pools, initially only one liquidity pool dedicated only to our token, then the liquidity pool of the projects listed in the launch pad.
+The initial liquidity pool is H4P / ADA, users who provide liquidity to the pool will be identified as merchants and will receive additional rewards in addition to the normal fees from transactions that take place on the H4P / ADA pool.
+The total rewards for each figure on the platform will be easily calculated by the calculator on the platform and by the graphs shown below in the white paper.
+The rewards deriving from the liquidity pool will be divided as follows:
+
+1 - Paladin NFTs slot 20%
+
+2 - 3% Paladin invitation program
+
+3 - Citizen 2%
+
+4 - Merchant / liquidity provider 30%
+
+5 - LaunchPad Stacking 5%
+
+6 - Burn 5%
+
+7 - H4P NFTs 1st sale 3%
+
+8 - H4P NFTs 2nd sale 2%
+
+9 - H4P NFTs 3rd sale 2%
+
+10 - H4P NFTs 4th sale 2%
+
+11 - H4P NFTs 5th sale 2%
+
+12 - H4P NFTs 6th sale 2%
+
+13 - H4P NFTs 7th sale 2%
+
+14 - H4P Company 10%
+
+15 - 10% unallocated
+
 **PLEASE NOTE THE WHITE PAPER IS UNDER REVIEW ANY INFORMATION SHARED MAY BE SUBJECT TO CHANGE**
