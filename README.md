@@ -1,5 +1,7 @@
 # Helium for People white-paper
 
+![Head](https://i.ibb.co/4YLKZdb/Helium-for-people.png)
+
 H4P bring IoT technology to Cardano blockchain / create a bridge between the Helium blockchain and the Cardano Blockchain to create a unique ecosystem.
 
 Mining/LiquidityPool/Stacking/LaunchPad/NFTs
