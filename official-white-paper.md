@@ -71,7 +71,7 @@ By breaking down the barriers to entry, structuring a network of functional devi
 The H4P Project undertakes to develop, based on the data traffic present in the blockchian Helium and the related mining, an ecosystem that favors the development of technology, the value of the blockchian itself and the remuneration for citizens who are part of the network directly and not. .
 
 The platform offers the opportunity to join the network even simply by installing a hotspot on loan for use in your home without any investment and start mining, but H4P is not a simple Hosting company, it is much more.
-Users will be able to rent a mining portion of our hotspots or simply stack our token and mine. (All features are explained in detail below.)
+Users will be able to purchase NFTs which represent a mining portion of our hotspots or simply stack our token and mine. (All features are explained in detail below.)
 The HNT (Helium Network Token) mined by all the devices of our platform have the function of reserve of value for the Token of the H4P platform and its relative token.
 
 The H4P token has the function of creating liquidity on the platform, reducing transaction costs,
@@ -98,13 +98,21 @@ If we then add that the reserve that is used as a value grows in relation to the
 The H4P tokens will have different functions, the main ones being: giving the possibility to manage decisions on the platform, on the user side, with a governance system, breaking down the entry barriers to the Helium network and applying financial leverage to the ecosystem to make it more liquid and expendable for the public. But now let's go into more detail:
 
 
-1 - receive the rewards of Stacking, Mining and Hosting.
+1 - receive the rewards of Stacking, Mining, Hosting and of LaunchPad.
+
 2 - vote on the projects proposed on the platform and every decision of the community through the governance system.
+
 3 - Increase the value of HNTs by implementing a deflationary mechanism on the circulating supply, blocking as many as possible to the benefit of both HNT and H4P ecosystems.
+
 4 - Making Helium Network closer to the narratives of the current market and joining it to a blockchain as valid as that of Cardano.
+
 5 - be used as a payment currency within the H4P platform to reduce the costs of fees and transform them at least in part into profits to be conveyed to the community.
 
+6 - to be able to create a launch pad dedicated to projects based on IoT technology that want to involve the Helium and Cardano communities.
+
 All the functions of the H4P token and user rewards are explained in detail in the token economics section.
+
+the choice was made to create a token dedicated to the H4P platform, so as not to affect the value of the HNTs to support the entire H4P ecosystem. This applied to a token economics studied in detail will favor the appreciation of the value of the HNTs, at the same time that of the H4Ps and in the long term will generate a leverage effect on both HNT and H4P.
 
 **Helium 4 People platform**
 
@@ -121,26 +129,28 @@ IoT on the Helium blockchain without excluding anyone from the network and makin
 The main figures within the H4P platform will be:
 
 1 - Paladin
+
 2 - Citizen
-3 - Stacker
+
+3 - Stacker(Merchant)
 
 Each of these 3 figures is a crucial part of the ecosystem, so it is our intention to create a network that does not exclude anyone and rewards them all in the correct way over time.
 
 ***Paladin user***
-A Paladin user is a user who has rented a mining portion of our Hotspots.
+A Paladin user is a user who has purchased an NFTs which represents a portion of the mining of our Hotspots.
 
 ***Citizen user***
 The Citizen user has received one of our hotspots on loan for use and then receives a portion of the mining rewards for the service provided.
 
-***Stackers user***
+***Stackers(merchant) user***
 Users who do not want to rent a portion of the mining and do not want to have a hotspot in their home can contribute to the platform by purchasing the tokens and placing them in stacking, in the liquidity pool, thus becoming staker and also receiving a large portion of the mining rewards. .
 
 **Rent portion of Mining and Paladin program**
 
 Why Paladin? Because they will be the pillars for the creation of the H4P network and its expansion. The Paladins will be the defenders of our Network.
 To become a Paladin, a User must rent the mining portion of a Hotspot of the H4P platform for life.
-So why not just mine with our Hotspots and take the profits home? Why mining our gateways? It's easy our team has a long-term vision and we believe in the crucial role that IoT technology will play in the future and therefore in the value that the Helium blockchian can achieve in 4, 8 or 12 years. Precisely because we believe in this technology and in the value of this blockchain that we have the ambitious goal of building the largest network of devices in the world, to do this we need your help to grow. So we decided to finance ourselves by renting portions of the mining of our hotspots for life and with the money collected to finance new devices and thus start an endless chain, destined to grow exponentially, both in terms of the number of devices and the rewards of users.
-Having said that, how do they actually become Paladin? Users registered on the H4P platform have the opportunity to purchase even a single mining reward slot of one of our hotspots for the paltry amount of € 15, 100 slots at a cost of € 9 per slot for a total of € 900 and 1000 slots € 8 l 'one for a total of € 8000.
+So why not just mine with our Hotspots and take the profits home? Why mining our gateways? It's easy our team has a long-term vision and we believe in the crucial role that IoT technology will play in the future and therefore in the value that the Helium blockchian can achieve in 4, 8 or 12 years. Precisely because we believe in this technology and in the value of this blockchain that we have the ambitious goal of building the largest network of devices in the world, to do this we need your help to grow. So we decided to finance ourselves by tokenizing through the support of NFTs technology portions of the mining of our hotspots and with the money collected to finance new devices and thus start an endless chain, destined to grow exponentially, both for the number of devices and for the rewards of the users.
+Having said that, how do they actually become Paladin? Users registered on the H4P platform have the opportunity to purchase even a single NFTs mining reward slot of one of our hotspots for the paltry amount of € 15, 100 NFTs slots at a cost of € 9 per slot for a total of € 900 and 1000 NFTs slots € 8 l 'one for a total of € 8000.
 Why should the user become an H4P Paladin and not buy a hotspot on his own and place it?
 
 As mentioned in the previous paragraphs, the barrier to entry is very high, but not only economically. Let's tackle the economic side first by purchasing a Hotspot directly from factory can have a cost that varies between 700 € and 1200 € with waiting times ranging from 8 weeks to 20, up to becoming infinite, while buying it from a retailer exposes to many scams and crazy price increases until you get a device to € 2000 if not more.
@@ -171,7 +181,9 @@ To make our token economics and therefore our entire network sustainable, we nee
 The mining reward of the hotspots of the H4P platform is divided as follows:
 
 1 - 70% allocated to the store of value for H4P token to give the rewards to the users of the platform
+
 2 - 30% allocated to the H4P company to cover management, development and marketing costs.
+
 The 30% collected by the company is divided as follows and intended for the following uses: 50% cover the costs of managing web and non-web infrastructures and pay salaries to the team; 30% to cover the development costs of the platform and IoT projects on the Helium blockchain and pay developer salaries; 20% to the retailer marketing to grow the H4P netwotk.
 The 70% allocated to the store of value for the H4P token is bound on a wallet to mine the H4P token in a ratio of 1: 10000 to divide the rewards as follows: 60% Paladin user program; 10% rewards program for Paladin users; 10% Citizen user program; 10% H4P stacking rewards on the liquidity pool in the platform; 5% reward for users who will participate in the LaunchPad program (allocated in other rewards until the LaunchPad is not available), 2% of the rewards are destined to be burned, last 3% non-allocated.
 
@@ -184,6 +196,7 @@ Another important element for the performance of our entire ecosystem is the rew
 The mining deriving from the Validators will be divided as follows:
 
 1-15% H4P company
+
 2-85% H4P value store
 
 The created reserve of value will be divided as follows:
