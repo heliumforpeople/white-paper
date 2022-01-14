@@ -190,6 +190,8 @@ The 30% collected by the company is divided as follows and intended for the foll
 
 The 70% allocated to the store of value for the H4P token is bound on a wallet to mine the H4P token in a ratio of 1: 10000
 
+![Head](https://i.ibb.co/y40KXmw/My-First-Board-Frame-8.jpg)
+
 to divide the rewards as follows: 
 
 60% NFTs Paladin user program
