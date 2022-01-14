@@ -204,7 +204,7 @@ to divide the rewards as follows:
 
 2% of the rewards are destined to be burned, 
 
-last 3% non-allocated.
+3% H4P online platform.
 
 The division of the rewards of the mining of the hotspots is divided in this way to give more relevance to the program for Paladins, because in the initial launch phase of the platform, it is the Paladins who activate all the self-financing mechanism of the H4P platform, which allows you to buy more and more Helium hotspots to be attributed to the H4P platform program and thus to the entire Helium for People ecosystem that we have created on the Cardano blockchain.
 The whole ecosystem is built and designed to maximize the yield for each user of the platform who becomes part of the H4P project without any barrier to entry, neither in terms of geographic location, distribution of coverage, initial investment and much more. 
@@ -232,7 +232,7 @@ The created H4P reserve of value will be divided as follows:
 
 3% for Burn
 
-5% unallocated
+5% H4P online platform.
 
 and finally a part of the rewards will be destined to the incentive of the first slots sales sessions to become a Paladin user, 
 
@@ -289,6 +289,8 @@ The rewards deriving from the liquidity pool will be divided as follows:
 
 14 - H4P Company 10%
 
-15 - 10% unallocated
+15 - 5% unallocated
+
+16 - 5% H4P online platform
 
 **PLEASE NOTE THE WHITE PAPER IS UNDER REVIEW ANY INFORMATION SHARED MAY BE SUBJECT TO CHANGE**
