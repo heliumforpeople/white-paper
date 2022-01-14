@@ -299,4 +299,6 @@ The rewards deriving from the liquidity pool will be divided as follows:
 
 16 - 5% H4P online platform
 
+![Head](https://i.ibb.co/26nPtvc/My-First-Board-Frame-11.jpg)
+
 **PLEASE NOTE THE WHITE PAPER IS UNDER REVIEW ANY INFORMATION SHARED MAY BE SUBJECT TO CHANGE**
