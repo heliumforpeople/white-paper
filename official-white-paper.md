@@ -298,6 +298,6 @@ The rewards deriving from the liquidity pool will be divided as follows:
 15 - 10% unallocated
 
 
-![Head](https://i.ibb.co/26nPtvc/My-First-Board-Frame-11.jpg)
+![Head](https://i.ibb.co/Vxzdw99/My-First-Board-Frame-11-1.jpg)
 
 **PLEASE NOTE THE WHITE PAPER IS UNDER REVIEW ANY INFORMATION SHARED MAY BE SUBJECT TO CHANGE**
