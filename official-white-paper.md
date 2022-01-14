@@ -258,6 +258,8 @@ A large part of these rewards will be destined for users who participate in the 
 
 This is because when the Validators are created, the H4P platform will be mature enough to be able to attract companies that want to offer themselves to our audience and users will be incentivized to use this new function of the platform to receive more rewards and to become part of new projects. based on IoT technology even before they hit the market.
 
+![Head](https://i.ibb.co/9YnS9gq/My-First-Board-Frame-10.jpg)
+
 **Liquidity pool and fee division**
 
 Another source of rewards for users will be the liquidity pools, initially only one liquidity pool dedicated only to our token, then the liquidity pool of the projects listed in the launch pad.
