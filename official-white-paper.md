@@ -208,6 +208,8 @@ to divide the rewards as follows:
 
 3% H4P online platform.
 
+![Head](https://i.ibb.co/cYzq2Yt/My-First-Board-Frame-9.jpg)
+
 The division of the rewards of the mining of the hotspots is divided in this way to give more relevance to the program for Paladins, because in the initial launch phase of the platform, it is the Paladins who activate all the self-financing mechanism of the H4P platform, which allows you to buy more and more Helium hotspots to be attributed to the H4P platform program and thus to the entire Helium for People ecosystem that we have created on the Cardano blockchain.
 The whole ecosystem is built and designed to maximize the yield for each user of the platform who becomes part of the H4P project without any barrier to entry, neither in terms of geographic location, distribution of coverage, initial investment and much more. 
 
